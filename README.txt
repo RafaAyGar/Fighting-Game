@@ -6,7 +6,7 @@ Guía del proyecto:
 
 - Concretamente el código fuente se encuentra en "Fighting Game Source\Assets\Scripts"
 
-- Puede ver un video demostración del proyecto en este mismo directorio llamado "Demo Fighting Game".
+- Puede ver un video demostración del proyecto en este mismo directorio llamado "Demo Fighting Game", para verlo, haga click en este y en la siguiente ventana clique en "view raw" para descargar el video, ya que es un archivo demasiado grande como para que GitHub por si sólo sea capaz de mostrarlo.
 
 - Para poder jugar al juego entre en "Built Game" y haga doble click en "My Naruto Fighting".
 
