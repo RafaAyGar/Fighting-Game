@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 69eaed64061859c4d85c5bad4b8b355d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7406266488693948106
+    second: Kakashi_Atlas_0
+  - first:
+      213: 126164959478584182
+    second: Kakashi_Atlas_1
+  - first:
+      213: 8820745951699732594
+    second: Kakashi_Atlas_2
+  - first:
+      213: -9056194866449124513
+    second: Kakashi_Atlas_3
+  - first:
+      213: -2743088609742915511
+    second: Kakashi_Atlas_4
+  - first:
+      213: -5398499202062758429
+    second: Kakashi_Atlas_5
+  - first:
+      213: -79692397435631080
+    second: Kakashi_Atlas_6
+  - first:
+      213: -2545099147460137560
+    second: Kakashi_Atlas_7
+  - first:
+      213: -3715351285907922412
+    second: Kakashi_Atlas_8
+  - first:
+      213: 6053786177252408881
+    second: Kakashi_Atlas_9
+  - first:
+      213: -5453245371571057968
+    second: Kakashi_Atlas_10
+  - first:
+      213: 5264003984461410507
+    second: Kakashi_Atlas_11
+  - first:
+      213: -1877671128133184421
+    second: Kakashi_Atlas_12
+  - first:
+      213: -7659278161742383589
+    second: Kakashi_Atlas_13
+  - first:
+      213: 2619319196328997378
+    second: Kakashi_Atlas_14
+  - first:
+      213: 6387480874866293735
+    second: Kakashi_Atlas_15
+  - first:
+      213: -6839567231239721906
+    second: Kakashi_Atlas_16
+  - first:
+      213: -7128637351057478718
+    second: Kakashi_Atlas_17
+  - first:
+      213: -6438376865213350345
+    second: Kakashi_Atlas_18
+  - first:
+      213: 6697077131146919540
+    second: Kakashi_Atlas_19
+  - first:
+      213: -4006577337482070411
+    second: Kakashi_Atlas_20
+  - first:
+      213: -3797409649719171847
+    second: Kakashi_Atlas_21
+  - first:
+      213: 8548457169830221603
+    second: Kakashi_Atlas_22
+  - first:
+      213: 6492343705155003883
+    second: Kakashi_Atlas_23
+  - first:
+      213: 6191638271372571432
+    second: Kakashi_Atlas_24
+  - first:
+      213: 8490277569584859852
+    second: Kakashi_Atlas_25
+  - first:
+      213: 665500734408835866
+    second: Kakashi_Atlas_26
+  - first:
+      213: 2300472329428374609
+    second: Kakashi_Atlas_27
+  - first:
+      213: 762857246713864562
+    second: Kakashi_Atlas_28
+  - first:
+      213: -2296208392823588893
+    second: Kakashi_Atlas_29
+  - first:
+      213: 422714465782908480
+    second: Kakashi_Atlas_30
+  - first:
+      213: 4199120684228549787
+    second: Kakashi_Atlas_31
+  - first:
+      213: 7776907425613237351
+    second: Kakashi_Atlas_32
+  - first:
+      213: 8436069720796731677
+    second: Kakashi_Atlas_33
+  - first:
+      213: -7603705043994302369
+    second: Kakashi_Atlas_34
+  - first:
+      213: -4820505835640267071
+    second: Kakashi_Atlas_35
+  - first:
+      213: 611582365289948269
+    second: Kakashi_Atlas_36
+  - first:
+      213: -126273684668205431
+    second: Kakashi_Atlas_37
+  - first:
+      213: 7675677289895449763
+    second: Kakashi_Atlas_38
+  - first:
+      213: 3116759095756100944
+    second: Kakashi_Atlas_39
+  - first:
+      213: 9166068437642244839
+    second: Kakashi_Atlas_40
+  - first:
+      213: 5845876579321541641
+    second: Kakashi_Atlas_41
+  - first:
+      213: 3642235139528840648
+    second: Kakashi_Atlas_43
+  - first:
+      213: 3174889816170080268
+    second: Kakashi_Atlas_44
+  - first:
+      213: 3804454017143685300
+    second: Kakashi_Atlas_45
+  - first:
+      213: 7707223369591658190
+    second: Kakashi_Atlas_46
+  - first:
+      213: 5176417820298632815
+    second: Kakashi_Atlas_47
+  - first:
+      213: -4721656559273930308
+    second: Kakashi_Atlas_48
+  - first:
+      213: -7334476451718742359
+    second: Kakashi_Atlas_49
+  - first:
+      213: -1601205722141745679
+    second: Kakashi_Atlas_50
+  - first:
+      213: 5268138185119601692
+    second: Kakashi_Atlas_51
+  - first:
+      213: 8083611368657352260
+    second: Kakashi_Atlas_52
+  - first:
+      213: 2288935156132593745
+    second: Kakashi_Atlas_53
+  - first:
+      213: 7130211637330616033
+    second: Kakashi_Atlas_54
+  - first:
+      213: -6141432170518726217
+    second: Kakashi_Atlas_55
+  - first:
+      213: -5579030649433595727
+    second: Kakashi_Atlas_56
+  - first:
+      213: -463818440783127961
+    second: Kakashi_Atlas_57
+  - first:
+      213: -5210462550404930192
+    second: Kakashi_Atlas_58
+  - first:
+      213: 4101707882269770759
+    second: Kakashi_Atlas_59
+  - first:
+      213: 1765718313532977900
+    second: Kakashi_Atlas_60
+  - first:
+      213: 768190460825887557
+    second: Kakashi_Atlas_61
+  - first:
+      213: -1825427598798440342
+    second: Kakashi_Atlas_62
+  - first:
+      213: -3213015333300889323
+    second: Kakashi_Atlas_63
+  - first:
+      213: 7049648107067620808
+    second: Kakashi_Atlas_64
+  - first:
+      213: 1264623549156432851
+    second: Kakashi_Atlas_65
+  - first:
+      213: -6764101231048699650
+    second: Kakashi_Atlas_66
+  - first:
+      213: 2452435813068117621
+    second: Kakashi_Atlas_67
+  - first:
+      213: 1639799391541429843
+    second: Kakashi_Atlas_68
+  - first:
+      213: -1518216669819505965
+    second: Kakashi_Atlas_69
+  - first:
+      213: -9006007258369807961
+    second: Kakashi_Atlas_70
+  - first:
+      213: 4456694110983423783
+    second: Kakashi_Atlas_71
+  - first:
+      213: 2973649453271544462
+    second: Kakashi_Atlas_72
+  - first:
+      213: -6871483682565225579
+    second: Kakashi_Atlas_73
+  - first:
+      213: 4996443590994294059
+    second: Kakashi_Atlas_74
+  - first:
+      213: 3697083401850836703
+    second: Kakashi_Atlas_75
+  - first:
+      213: 7389629440647315403
+    second: Kakashi_Atlas_76
+  - first:
+      213: -7901958597921391501
+    second: Kakashi_Atlas_77
+  - first:
+      213: 6315519762811235843
+    second: Kakashi_Atlas_78
+  - first:
+      213: 1406709233807827938
+    second: Kakashi_Atlas_79
+  - first:
+      213: -8032483394333847362
+    second: Kakashi_Atlas_80
+  - first:
+      213: -5587755012185632521
+    second: Kakashi_Atlas_81
+  - first:
+      213: -2053822762659334676
+    second: Kakashi_Atlas_82
+  - first:
+      213: 7696720472633280448
+    second: Kakashi_Atlas_83
+  - first:
+      213: 4951173052049313505
+    second: Kakashi_Atlas_84
+  - first:
+      213: 2906072940165121654
+    second: Kakashi_Atlas_85
+  - first:
+      213: -1734536903960932349
+    second: Kakashi_Atlas_86
+  - first:
+      213: 3809272353706370017
+    second: Kakashi_Atlas_87
+  - first:
+      213: -5836610248363807142
+    second: Kakashi_Atlas_88
+  - first:
+      213: 3857008616556135683
+    second: Kakashi_Atlas_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kakashi_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492d27dd2aaeeb4dae6ae9d39e8e5ee
+      internalID: 7406266488693948106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 443
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910c3b235ae18e498fd4d8eac47f144
+      internalID: 126164959478584182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 446
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495052c61f999a3489939c3bf9f49101
+      internalID: 8820745951699732594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 449
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2362a3f4e23b84e8df4c12faa081ea
+      internalID: -9056194866449124513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 454
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdee22bbd0c3d247b9d63944ace2d21
+      internalID: -2743088609742915511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 482
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b7031676e33a4f939aae4e1d7c39f
+      internalID: -5398499202062758429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 452
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d3ad5ce6fd0d45848027ef2e6d0ff
+      internalID: -79692397435631080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 486
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05576b2ac4408049af19f1ec2dbd68d
+      internalID: -2545099147460137560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 446
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8249ac5c6a057f843b0c2d17b8df1dab
+      internalID: -3715351285907922412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 441
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265802c433e0d044a028011e3298c93
+      internalID: 6053786177252408881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 442
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf27a67da81248247a8530773e1ad0c4
+      internalID: -5453245371571057968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 441
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a4ccb3e0300d44f8a13a1e2839001b
+      internalID: 5264003984461410507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 441
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd67f2b7a8580b44a22fd0586d7380d
+      internalID: -1877671128133184421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 441
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79f672d77a5d0b44a904ef528a9c5ca
+      internalID: -7659278161742383589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 444
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8943d217009e44f805caaf7325709d
+      internalID: 2619319196328997378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 463
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3409f9a593605e44b9bddfa738ebf5e
+      internalID: 6387480874866293735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 468
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169e67c925932045b61ce4293352cc2
+      internalID: -6839567231239721906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 468
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e7be79c7fed0e499bf1bab19acda7d
+      internalID: -7128637351057478718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 470
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af83c71ce7cfe4281d6a3d30befaef
+      internalID: -6438376865213350345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 376
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0768d2172f27342a41e7d7c4119b38
+      internalID: 6697077131146919540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 375
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70300edc39d00ee43b255da3c228c455
+      internalID: -4006577337482070411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 377
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748b36735f89c84089e60b13917896c
+      internalID: -3797409649719171847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 376
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bcc3fd19e8a646982257f99f8af73
+      internalID: 8548457169830221603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 375
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999fff1086639548941695423620152
+      internalID: 6492343705155003883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 374
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f588ab31b4b94449c655c4bcf6029f
+      internalID: 6191638271372571432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 372
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67dec0aa27cd714a822661972fc9608
+      internalID: 8490277569584859852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 372
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d53ea2ca7101c44a372ab1e09e07c1
+      internalID: 665500734408835866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 370
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cce55a7fa389f647b2e88f3d662a8c0
+      internalID: 2300472329428374609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 372
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60151534bc4d642b0ee08a18cbe22e
+      internalID: 762857246713864562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 370
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd6232838ad31b46a6140c2ce022567
+      internalID: -2296208392823588893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 370
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c836cc48feb15f4d97bbd4a1f09307c
+      internalID: 422714465782908480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 368
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8e3b422cffa724aa7793e3cd25e312
+      internalID: 4199120684228549787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 367
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69acfc8ead2a48b43b195b819050cef7
+      internalID: 7776907425613237351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 369
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb27880a487888641849cf3b32a5a70b
+      internalID: 8436069720796731677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 299
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c8f291f7075ce4ab4852af6be97228
+      internalID: -7603705043994302369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 294
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91263862bc097124ab990b43f7258daf
+      internalID: -4820505835640267071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 300
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d15901ada69054fa496384e1b7b175
+      internalID: 611582365289948269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 299
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804821871d8fd584398e74171bb59273
+      internalID: -126273684668205431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 296
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d37dbb75cbfa54c9e2ea9e62bd39ba
+      internalID: 7675677289895449763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 295
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b2527811e25b49868feda82d58f55
+      internalID: 3116759095756100944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 303
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a51a3d068cebe4cb33bc4cce4aadb3
+      internalID: 9166068437642244839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 297
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f88c0ba9cbc434281943aa1a266ea4
+      internalID: 5845876579321541641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 302
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b6c37404cd1a49817f446891a8ecf
+      internalID: 3642235139528840648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 295
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d37d5770468dbd41984b46a8754ff14
+      internalID: 3174889816170080268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 289
+        width: 102
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff25a7df16531a640af914d5a131ad2a
+      internalID: 3804454017143685300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 292
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a35e64610baac4dbf2da1e66b1aecd
+      internalID: 7707223369591658190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 300
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d207fc21638d5740ba4587c061601e0
+      internalID: 5176417820298632815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 300
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bccdd89dfb94934db5565e1e669dc4d
+      internalID: -4721656559273930308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 298
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e6353cfd25484ab4d769a661f1100
+      internalID: -7334476451718742359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 236
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5b5e4d97f29443b4c7bbe54c62f09
+      internalID: -1601205722141745679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 235
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90217092d527d8c478ce427edaec1de9
+      internalID: 5268138185119601692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 236
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785ea7d6d58e7047846f912993c71b0
+      internalID: 8083611368657352260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 232
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8a7c9bf6ef504ab8ac579f128e866
+      internalID: 2288935156132593745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 231
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76edeb7b464bdb45816304d7b1e4d2b
+      internalID: 7130211637330616033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 230
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11c821ebf46cb4ead6da263e03417e
+      internalID: -6141432170518726217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 231
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2db4dd7a4183c418eedf3e5878c4a7
+      internalID: -5579030649433595727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 227
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec5ea60edabca42b3a72764187555f
+      internalID: -463818440783127961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 226
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a0c1d674808244a5519fc2f795284
+      internalID: -5210462550404930192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 219
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a02741d359d704abfcf0828075bd1f
+      internalID: 4101707882269770759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 229
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9819ac3aecd8438eb9b58f2157660
+      internalID: 1765718313532977900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 225
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d90e75db9d17d4b9a112d722a29048
+      internalID: 768190460825887557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 224
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b78cdc29c892746880c82103d7d54d
+      internalID: -1825427598798440342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 165
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd420b341bc6fd44ab3af3bc1d9d64c
+      internalID: -3213015333300889323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f25f3483f8584c89de5d78da1e874
+      internalID: 7049648107067620808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 165
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190b2d39e7ad3e49a2c50c063b6fda4
+      internalID: 1264623549156432851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 152
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25beabbc68061da4399e9c20bd71deaa
+      internalID: -6764101231048699650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 158
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b8490e650df140bdd15c408847960
+      internalID: 2452435813068117621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 160
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7323ab07b9d8b984ea9dc732dee65911
+      internalID: 1639799391541429843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3678f6f43d962a4cab19cdcaa544b08
+      internalID: -1518216669819505965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 167
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5475ad0ed8444ebb653c3b31f930b
+      internalID: -9006007258369807961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 162
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8604186eba1f78c42811dff825223cfe
+      internalID: 4456694110983423783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acade048393b9a545ba9fef4a9333ed3
+      internalID: 2973649453271544462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 170
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ccfa9818a17b949b27260ae6845c13
+      internalID: -6871483682565225579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 94
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177acb1671ece647bff8e87e4cabfb5
+      internalID: 4996443590994294059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 92
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30f149991199c43bdfa53997a14d1c
+      internalID: 3697083401850836703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 87
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcc3d6126229834687a1336a2508252
+      internalID: 7389629440647315403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 129
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001db9cd50bb2c42b42546312472ad0
+      internalID: -7901958597921391501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 131
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad43cdc950e926449837a82ef860ac7
+      internalID: 6315519762811235843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 138
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291b44eb872d3a46bbde4323e8efc98
+      internalID: 1406709233807827938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 130
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22dc2cd81fd084594b0db42ab8b704
+      internalID: -8032483394333847362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b035b38b8e8d4f547a3b87e30176921b
+      internalID: -5587755012185632521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 37
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc76cc4430f007143957b70d738cfcf8
+      internalID: -2053822762659334676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 83
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1cef8118b73604b9e5891146853368
+      internalID: 7696720472633280448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 86
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25007a28e79a6c478bae7a951b8223a
+      internalID: 4951173052049313505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c134382a359e459d8d742f914d81a
+      internalID: 2906072940165121654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 87
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1a22915f260245994e9a08ae1efdb
+      internalID: -1734536903960932349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd4774b7a3d7e247a542dae78ea954b
+      internalID: 3809272353706370017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d137613314e04081f2890811ab532
+      internalID: -5836610248363807142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 15
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b689e92a9594a8441bbf8a575a28f519
+      internalID: 3857008616556135683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

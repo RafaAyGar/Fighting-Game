@@ -1,0 +1,7477 @@
+fileFormatVersion: 2
+guid: ec1148751ebd7af49b4f8399eb7e01ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6146219601337741559
+    second: Sakura_Atlas_0
+  - first:
+      213: 8275281068048154576
+    second: Sakura_Atlas_1
+  - first:
+      213: 8484205640029784501
+    second: Sakura_Atlas_2
+  - first:
+      213: -2408583426989471801
+    second: Sakura_Atlas_3
+  - first:
+      213: 5020393716587917868
+    second: Sakura_Atlas_4
+  - first:
+      213: -7974637129000214816
+    second: Sakura_Atlas_5
+  - first:
+      213: -1334125611462683183
+    second: Sakura_Atlas_6
+  - first:
+      213: 7361114087903328975
+    second: Sakura_Atlas_7
+  - first:
+      213: -291204899262141921
+    second: Sakura_Atlas_8
+  - first:
+      213: -8053839471611898532
+    second: Sakura_Atlas_9
+  - first:
+      213: -277387359530851131
+    second: Sakura_Atlas_10
+  - first:
+      213: -5187163096637275062
+    second: Sakura_Atlas_11
+  - first:
+      213: 3441165619015075132
+    second: Sakura_Atlas_12
+  - first:
+      213: 261243933858794061
+    second: Sakura_Atlas_13
+  - first:
+      213: 2870976983312483238
+    second: Sakura_Atlas_14
+  - first:
+      213: 996883043723532797
+    second: Sakura_Atlas_15
+  - first:
+      213: -6459175147267037437
+    second: Sakura_Atlas_16
+  - first:
+      213: 6809631230936459188
+    second: Sakura_Atlas_17
+  - first:
+      213: 8449966240177017118
+    second: Sakura_Atlas_18
+  - first:
+      213: -1570378227552377167
+    second: Sakura_Atlas_19
+  - first:
+      213: -8661767359979360051
+    second: Sakura_Atlas_20
+  - first:
+      213: 1973925406322942721
+    second: Sakura_Atlas_21
+  - first:
+      213: 2455025846768049947
+    second: Sakura_Atlas_22
+  - first:
+      213: -1009939497089442947
+    second: Sakura_Atlas_23
+  - first:
+      213: 4627232051628943520
+    second: Sakura_Atlas_24
+  - first:
+      213: 4248796188772320684
+    second: Sakura_Atlas_25
+  - first:
+      213: 8071725307031712591
+    second: Sakura_Atlas_26
+  - first:
+      213: 3301447691299379033
+    second: Sakura_Atlas_27
+  - first:
+      213: 112706534803496833
+    second: Sakura_Atlas_28
+  - first:
+      213: 7372743403441647602
+    second: Sakura_Atlas_29
+  - first:
+      213: 848499263937596099
+    second: Sakura_Atlas_30
+  - first:
+      213: 9578625971789349
+    second: Sakura_Atlas_31
+  - first:
+      213: -6680298170249228235
+    second: Sakura_Atlas_32
+  - first:
+      213: 2310699260475997009
+    second: Sakura_Atlas_33
+  - first:
+      213: -6890431821701163958
+    second: Sakura_Atlas_34
+  - first:
+      213: 5033824270981663521
+    second: Sakura_Atlas_35
+  - first:
+      213: -872331771047003628
+    second: Sakura_Atlas_36
+  - first:
+      213: -1753613145517008184
+    second: Sakura_Atlas_37
+  - first:
+      213: 3419566039742899121
+    second: Sakura_Atlas_38
+  - first:
+      213: 7994661468940709979
+    second: Sakura_Atlas_39
+  - first:
+      213: 4186511512811635148
+    second: Sakura_Atlas_40
+  - first:
+      213: 6382594174386814907
+    second: Sakura_Atlas_41
+  - first:
+      213: -91938891757169075
+    second: Sakura_Atlas_42
+  - first:
+      213: -3441954309656033218
+    second: Sakura_Atlas_43
+  - first:
+      213: 6341708248930977990
+    second: Sakura_Atlas_44
+  - first:
+      213: 1056163947644537421
+    second: Sakura_Atlas_45
+  - first:
+      213: -7446988504885150523
+    second: Sakura_Atlas_46
+  - first:
+      213: -1487995894409433819
+    second: Sakura_Atlas_47
+  - first:
+      213: 8428051337255961258
+    second: Sakura_Atlas_48
+  - first:
+      213: -8049534837425500157
+    second: Sakura_Atlas_49
+  - first:
+      213: 425930349300986269
+    second: Sakura_Atlas_50
+  - first:
+      213: 4261520363430750298
+    second: Sakura_Atlas_51
+  - first:
+      213: 1545423921827455186
+    second: Sakura_Atlas_52
+  - first:
+      213: -5004563105679603928
+    second: Sakura_Atlas_53
+  - first:
+      213: 5173996651251342329
+    second: Sakura_Atlas_54
+  - first:
+      213: -2554077703831373620
+    second: Sakura_Atlas_55
+  - first:
+      213: -9204892678408387257
+    second: Sakura_Atlas_56
+  - first:
+      213: -962335490231925354
+    second: Sakura_Atlas_57
+  - first:
+      213: 5207663683697481207
+    second: Sakura_Atlas_58
+  - first:
+      213: -3659284977886767369
+    second: Sakura_Atlas_59
+  - first:
+      213: 7299005829618794820
+    second: Sakura_Atlas_60
+  - first:
+      213: -1663508984634039118
+    second: Sakura_Atlas_61
+  - first:
+      213: 8720486778857349467
+    second: Sakura_Atlas_62
+  - first:
+      213: -8838284635271010399
+    second: Sakura_Atlas_63
+  - first:
+      213: 7852443265012190225
+    second: Sakura_Atlas_64
+  - first:
+      213: 704451055971891063
+    second: Sakura_Atlas_65
+  - first:
+      213: -7654241260667492725
+    second: Sakura_Atlas_66
+  - first:
+      213: 202921901911572751
+    second: Sakura_Atlas_67
+  - first:
+      213: 7637194319956283394
+    second: Sakura_Atlas_68
+  - first:
+      213: -3258921131101819795
+    second: Sakura_Atlas_69
+  - first:
+      213: -7009246505702721150
+    second: Sakura_Atlas_70
+  - first:
+      213: -6128944474737929503
+    second: Sakura_Atlas_71
+  - first:
+      213: 5929088426333873572
+    second: Sakura_Atlas_72
+  - first:
+      213: -632586449656838357
+    second: Sakura_Atlas_73
+  - first:
+      213: 3149997704431091633
+    second: Sakura_Atlas_74
+  - first:
+      213: -8498291528674470620
+    second: Sakura_Atlas_75
+  - first:
+      213: -371819873199896090
+    second: Sakura_Atlas_76
+  - first:
+      213: 623444611920643131
+    second: Sakura_Atlas_77
+  - first:
+      213: -4819731830441592501
+    second: Sakura_Atlas_78
+  - first:
+      213: 6162536576856711462
+    second: Sakura_Atlas_79
+  - first:
+      213: 8074173326362919085
+    second: Sakura_Atlas_80
+  - first:
+      213: -2905716041783759292
+    second: Sakura_Atlas_81
+  - first:
+      213: -2611067096185062805
+    second: Sakura_Atlas_82
+  - first:
+      213: -575208900868413002
+    second: Sakura_Atlas_83
+  - first:
+      213: 283510530252290714
+    second: Sakura_Atlas_84
+  - first:
+      213: 6219434286323605380
+    second: Sakura_Atlas_85
+  - first:
+      213: 7039680166466854272
+    second: Sakura_Atlas_86
+  - first:
+      213: 4644012876917903727
+    second: Sakura_Atlas_87
+  - first:
+      213: 1889876116716621651
+    second: Sakura_Atlas_88
+  - first:
+      213: 2582846827318489149
+    second: Sakura_Atlas_89
+  - first:
+      213: -4864807806484208436
+    second: Sakura_Atlas_90
+  - first:
+      213: -845383127365303046
+    second: Sakura_Atlas_91
+  - first:
+      213: 8342835172674617778
+    second: Sakura_Atlas_92
+  - first:
+      213: 4891301254967563682
+    second: Sakura_Atlas_93
+  - first:
+      213: -8048366511094262023
+    second: Sakura_Atlas_94
+  - first:
+      213: 5065625369919236530
+    second: Sakura_Atlas_95
+  - first:
+      213: -3861174076347375163
+    second: Sakura_Atlas_96
+  - first:
+      213: -5441524473009999723
+    second: Sakura_Atlas_97
+  - first:
+      213: 9218299824361513160
+    second: Sakura_Atlas_98
+  - first:
+      213: -6732902143233097962
+    second: Sakura_Atlas_99
+  - first:
+      213: 5008165176908731069
+    second: Sakura_Atlas_100
+  - first:
+      213: -2948962185504893695
+    second: Sakura_Atlas_101
+  - first:
+      213: -6643925799887655158
+    second: Sakura_Atlas_102
+  - first:
+      213: -6973275552681544510
+    second: Sakura_Atlas_103
+  - first:
+      213: 2195047974588435419
+    second: Sakura_Atlas_104
+  - first:
+      213: -3149693735673659390
+    second: Sakura_Atlas_105
+  - first:
+      213: -750223003300591596
+    second: Sakura_Atlas_106
+  - first:
+      213: 6813651802197098138
+    second: Sakura_Atlas_107
+  - first:
+      213: 1729523781019819773
+    second: Sakura_Atlas_108
+  - first:
+      213: 8946589778316574553
+    second: Sakura_Atlas_109
+  - first:
+      213: 3411519273785977746
+    second: Sakura_Atlas_110
+  - first:
+      213: -7400521344827676220
+    second: Sakura_Atlas_111
+  - first:
+      213: 617827055790207538
+    second: Sakura_Atlas_112
+  - first:
+      213: 6092480877461095883
+    second: Sakura_Atlas_113
+  - first:
+      213: 6351189940194014031
+    second: Sakura_Atlas_114
+  - first:
+      213: 9123012925294969722
+    second: Sakura_Atlas_115
+  - first:
+      213: -7355527023312530409
+    second: Sakura_Atlas_116
+  - first:
+      213: 8521640620534629643
+    second: Sakura_Atlas_117
+  - first:
+      213: 3656551393351268903
+    second: Sakura_Atlas_118
+  - first:
+      213: -4038472662832972544
+    second: Sakura_Atlas_119
+  - first:
+      213: 2408417689414582857
+    second: Sakura_Atlas_120
+  - first:
+      213: 546004046171696429
+    second: Sakura_Atlas_121
+  - first:
+      213: 3703514354659207786
+    second: Sakura_Atlas_122
+  - first:
+      213: -7642336819304067909
+    second: Sakura_Atlas_123
+  - first:
+      213: -7066768449729749007
+    second: Sakura_Atlas_124
+  - first:
+      213: 6393521377660767853
+    second: Sakura_Atlas_125
+  - first:
+      213: -5270600353589865828
+    second: Sakura_Atlas_126
+  - first:
+      213: -7461516803679272114
+    second: Sakura_Atlas_127
+  - first:
+      213: 9183793056607328530
+    second: Sakura_Atlas_128
+  - first:
+      213: 2174615026666563885
+    second: Sakura_Atlas_129
+  - first:
+      213: 890941692061318610
+    second: Sakura_Atlas_130
+  - first:
+      213: -5131332283881134069
+    second: Sakura_Atlas_131
+  - first:
+      213: 3526220826469964546
+    second: Sakura_Atlas_132
+  - first:
+      213: 858482971814469729
+    second: Sakura_Atlas_133
+  - first:
+      213: -8961611571564164834
+    second: Sakura_Atlas_134
+  - first:
+      213: -136536132064948685
+    second: Sakura_Atlas_135
+  - first:
+      213: -6180767130863090861
+    second: Sakura_Atlas_136
+  - first:
+      213: 2128846313584387196
+    second: Sakura_Atlas_137
+  - first:
+      213: -2081508669995524155
+    second: Sakura_Atlas_138
+  - first:
+      213: -7402247780280579308
+    second: Sakura_Atlas_139
+  - first:
+      213: 3745270716179813024
+    second: Sakura_Atlas_140
+  - first:
+      213: 5652986404957018882
+    second: Sakura_Atlas_141
+  - first:
+      213: 6580668386303727240
+    second: Sakura_Atlas_142
+  - first:
+      213: 8905096535013734925
+    second: Sakura_Atlas_143
+  - first:
+      213: -5921772921512994701
+    second: Sakura_Atlas_144
+  - first:
+      213: -5775449626252485759
+    second: Sakura_Atlas_145
+  - first:
+      213: 863856741807413290
+    second: Sakura_Atlas_146
+  - first:
+      213: -5222257988016025661
+    second: Sakura_Atlas_147
+  - first:
+      213: -5105802895285916968
+    second: Sakura_Atlas_148
+  - first:
+      213: -854073721564491978
+    second: Sakura_Atlas_149
+  - first:
+      213: 4925272366267191870
+    second: Sakura_Atlas_150
+  - first:
+      213: 8771009073208101045
+    second: Sakura_Atlas_151
+  - first:
+      213: -4630482903147979602
+    second: Sakura_Atlas_152
+  - first:
+      213: -6970511710079219109
+    second: Sakura_Atlas_153
+  - first:
+      213: -6067749561493243264
+    second: Sakura_Atlas_154
+  - first:
+      213: 3738957088470458122
+    second: Sakura_Atlas_155
+  - first:
+      213: 5017339746365485361
+    second: Sakura_Atlas_156
+  - first:
+      213: -6358408463790682623
+    second: Sakura_Atlas_157
+  - first:
+      213: -5770573708626855095
+    second: Sakura_Atlas_158
+  - first:
+      213: -7818894806460904368
+    second: Sakura_Atlas_159
+  - first:
+      213: -4927362450486308092
+    second: Sakura_Atlas_160
+  - first:
+      213: 4414188348245625040
+    second: Sakura_Atlas_161
+  - first:
+      213: -7045234965018090800
+    second: Sakura_Atlas_162
+  - first:
+      213: -5715116921268433945
+    second: Sakura_Atlas_163
+  - first:
+      213: -4109194172466731883
+    second: Sakura_Atlas_164
+  - first:
+      213: -6736621345603381117
+    second: Sakura_Atlas_165
+  - first:
+      213: -2244195023226083214
+    second: Sakura_Atlas_166
+  - first:
+      213: -4182450251857566918
+    second: Sakura_Atlas_167
+  - first:
+      213: 1617902275557237554
+    second: Sakura_Atlas_168
+  - first:
+      213: 1556090003595454443
+    second: Sakura_Atlas_169
+  - first:
+      213: 987412306270980598
+    second: Sakura_Atlas_170
+  - first:
+      213: -8027119391743512569
+    second: Sakura_Atlas_171
+  - first:
+      213: -1547688759138942655
+    second: Sakura_Atlas_172
+  - first:
+      213: -4748057483796072164
+    second: Sakura_Atlas_173
+  - first:
+      213: -3270081688654902725
+    second: Sakura_Atlas_174
+  - first:
+      213: 2710054641682573555
+    second: Sakura_Atlas_175
+  - first:
+      213: -1244936779036665733
+    second: Sakura_Atlas_176
+  - first:
+      213: -1030414068932729226
+    second: Sakura_Atlas_177
+  - first:
+      213: 1804516503295460889
+    second: Sakura_Atlas_178
+  - first:
+      213: -7045277245191195300
+    second: Sakura_Atlas_179
+  - first:
+      213: 5123258097542566148
+    second: Sakura_Atlas_180
+  - first:
+      213: 4128712786043239968
+    second: Sakura_Atlas_181
+  - first:
+      213: -6594548638035510199
+    second: Sakura_Atlas_182
+  - first:
+      213: 8000574468069946847
+    second: Sakura_Atlas_183
+  - first:
+      213: -476652979203176767
+    second: Sakura_Atlas_184
+  - first:
+      213: 1293277644225094284
+    second: Sakura_Atlas_185
+  - first:
+      213: 6438819292751826205
+    second: Sakura_Atlas_186
+  - first:
+      213: 6918511688017433440
+    second: Sakura_Atlas_187
+  - first:
+      213: -2487330221699185229
+    second: Sakura_Atlas_188
+  - first:
+      213: -7876939164702609197
+    second: Sakura_Atlas_189
+  - first:
+      213: 5335128078766180734
+    second: Sakura_Atlas_190
+  - first:
+      213: 4304673349653187752
+    second: Sakura_Atlas_191
+  - first:
+      213: -8901909096902296055
+    second: Sakura_Atlas_192
+  - first:
+      213: 7867399560424276011
+    second: Sakura_Atlas_193
+  - first:
+      213: 1618052710378689518
+    second: Sakura_Atlas_194
+  - first:
+      213: -4164022943449948608
+    second: Sakura_Atlas_195
+  - first:
+      213: -3609457979814456587
+    second: Sakura_Atlas_196
+  - first:
+      213: -7211417890709120611
+    second: Sakura_Atlas_197
+  - first:
+      213: -7061966973495041916
+    second: Sakura_Atlas_198
+  - first:
+      213: 8862452017537685520
+    second: Sakura_Atlas_199
+  - first:
+      213: 3857475218958568165
+    second: Sakura_Atlas_200
+  - first:
+      213: 5264459470787366824
+    second: Sakura_Atlas_201
+  - first:
+      213: -6344112485596064513
+    second: Sakura_Atlas_202
+  - first:
+      213: 9130378646665646780
+    second: Sakura_Atlas_203
+  - first:
+      213: -7313693202171966306
+    second: Sakura_Atlas_204
+  - first:
+      213: -3423101880006773692
+    second: Sakura_Atlas_205
+  - first:
+      213: -167485151576276071
+    second: Sakura_Atlas_206
+  - first:
+      213: -3255974011988154712
+    second: Sakura_Atlas_207
+  - first:
+      213: 5741196575456480536
+    second: Sakura_Atlas_208
+  - first:
+      213: -8221608626837223853
+    second: Sakura_Atlas_209
+  - first:
+      213: 5386879099800197562
+    second: Sakura_Atlas_210
+  - first:
+      213: 2301954651533376465
+    second: Sakura_Atlas_211
+  - first:
+      213: 1922508568411303044
+    second: Sakura_Atlas_212
+  - first:
+      213: -8074585262677363101
+    second: Sakura_Atlas_213
+  - first:
+      213: 7249076100053029784
+    second: Sakura_Atlas_214
+  - first:
+      213: 3334124668997136256
+    second: Sakura_Atlas_215
+  - first:
+      213: 7431998991080732799
+    second: Sakura_Atlas_216
+  - first:
+      213: -5126890829296371220
+    second: Sakura_Atlas_217
+  - first:
+      213: 1992940202987614614
+    second: Sakura_Atlas_218
+  - first:
+      213: -6540145871859864711
+    second: Sakura_Atlas_219
+  - first:
+      213: 474999812793198551
+    second: Sakura_Atlas_220
+  - first:
+      213: 5972609020415870666
+    second: Sakura_Atlas_221
+  - first:
+      213: 2616663195223136322
+    second: Sakura_Atlas_222
+  - first:
+      213: 1180619075457049050
+    second: Sakura_Atlas_223
+  - first:
+      213: 6109281698163133923
+    second: Sakura_Atlas_224
+  - first:
+      213: 8452642482329343409
+    second: Sakura_Atlas_225
+  - first:
+      213: -4580461938754344803
+    second: Sakura_Atlas_226
+  - first:
+      213: -7026540867063859807
+    second: Sakura_Atlas_227
+  - first:
+      213: -7685641835515868625
+    second: Sakura_Atlas_228
+  - first:
+      213: 3993893306221607035
+    second: Sakura_Atlas_229
+  - first:
+      213: 6903935382158638002
+    second: Sakura_Atlas_230
+  - first:
+      213: -5077178557176935662
+    second: Sakura_Atlas_231
+  - first:
+      213: -8979720247270742994
+    second: Sakura_Atlas_232
+  - first:
+      213: -3495734438190726901
+    second: Sakura_Atlas_233
+  - first:
+      213: -7126311504528271695
+    second: Sakura_Atlas_234
+  - first:
+      213: 3417895670414938491
+    second: Sakura_Atlas_235
+  - first:
+      213: -6368546413661693318
+    second: Sakura_Atlas_236
+  - first:
+      213: 6866349168712023377
+    second: Sakura_Atlas_237
+  - first:
+      213: -8082152505028232770
+    second: Sakura_Atlas_238
+  - first:
+      213: 4499013359296112680
+    second: Sakura_Atlas_239
+  - first:
+      213: 2853857611934706551
+    second: Sakura_Atlas_240
+  - first:
+      213: 3747090559714301197
+    second: Sakura_Atlas_241
+  - first:
+      213: -388792474830458825
+    second: Sakura_Atlas_242
+  - first:
+      213: 1817216748385495199
+    second: Sakura_Atlas_243
+  - first:
+      213: -3597616406598173890
+    second: Sakura_Atlas_244
+  - first:
+      213: -8105907063015957263
+    second: Sakura_Atlas_245
+  - first:
+      213: -9028623084806111944
+    second: Sakura_Atlas_246
+  - first:
+      213: -8723231647441297777
+    second: Sakura_Atlas_247
+  - first:
+      213: 5874236533457411486
+    second: Sakura_Atlas_248
+  - first:
+      213: -3828067659968849979
+    second: Sakura_Atlas_249
+  - first:
+      213: 6898626184061594531
+    second: Sakura_Atlas_250
+  - first:
+      213: 8713502292245371698
+    second: Sakura_Atlas_251
+  - first:
+      213: 1513118676522131525
+    second: Sakura_Atlas_252
+  - first:
+      213: 9173200729097312
+    second: Sakura_Atlas_253
+  - first:
+      213: 7018118665218810982
+    second: Sakura_Atlas_254
+  - first:
+      213: -5335074141050356024
+    second: Sakura_Atlas_255
+  - first:
+      213: -1751243066461734205
+    second: Sakura_Atlas_256
+  - first:
+      213: 1764104756749167931
+    second: Sakura_Atlas_257
+  - first:
+      213: 7111899829404394058
+    second: Sakura_Atlas_258
+  - first:
+      213: 2207081300491199428
+    second: Sakura_Atlas_259
+  - first:
+      213: 8462537843941110587
+    second: Sakura_Atlas_260
+  - first:
+      213: -4301758817919227769
+    second: Sakura_Atlas_261
+  - first:
+      213: -3334481029339665624
+    second: Sakura_Atlas_262
+  - first:
+      213: -6248517593524644200
+    second: Sakura_Atlas_263
+  - first:
+      213: 2493552266556564459
+    second: Sakura_Atlas_264
+  - first:
+      213: 6299705640713383204
+    second: Sakura_Atlas_265
+  - first:
+      213: 4319962867534387525
+    second: Sakura_Atlas_266
+  - first:
+      213: 4695385110484346152
+    second: Sakura_Atlas_267
+  - first:
+      213: -2670103349155721703
+    second: Sakura_Atlas_268
+  - first:
+      213: 4434987388576933569
+    second: Sakura_Atlas_269
+  - first:
+      213: -8798354454263379953
+    second: Sakura_Atlas_270
+  - first:
+      213: 6011181665155570454
+    second: Sakura_Atlas_271
+  - first:
+      213: -8349919736972362600
+    second: Sakura_Atlas_272
+  - first:
+      213: 4883304965723900393
+    second: Sakura_Atlas_273
+  - first:
+      213: -338729248747927195
+    second: Sakura_Atlas_274
+  - first:
+      213: -5874642605968425986
+    second: Sakura_Atlas_275
+  - first:
+      213: 5651362316043857101
+    second: Sakura_Atlas_276
+  - first:
+      213: 3635767344620599840
+    second: Sakura_Atlas_277
+  - first:
+      213: 745284192378498142
+    second: Sakura_Atlas_278
+  - first:
+      213: -2801064503298581719
+    second: Sakura_Atlas_279
+  - first:
+      213: 7404030313209965982
+    second: Sakura_Atlas_280
+  - first:
+      213: 4905889635949712953
+    second: Sakura_Atlas_281
+  - first:
+      213: -7751146350493327679
+    second: Sakura_Atlas_282
+  - first:
+      213: -6470173090551548263
+    second: Sakura_Atlas_283
+  - first:
+      213: -3306111415317416692
+    second: Sakura_Atlas_284
+  - first:
+      213: 3378548018564740621
+    second: Sakura_Atlas_285
+  - first:
+      213: 5889826451722092452
+    second: Sakura_Atlas_286
+  - first:
+      213: -5016564143701692787
+    second: Sakura_Atlas_287
+  - first:
+      213: -1772666416251905850
+    second: Sakura_Atlas_288
+  - first:
+      213: -4993723816641374095
+    second: Sakura_Atlas_289
+  - first:
+      213: -6818120240766138796
+    second: Sakura_Atlas_290
+  - first:
+      213: 1159027932566699163
+    second: Sakura_Atlas_291
+  - first:
+      213: -7307459913975731738
+    second: Sakura_Atlas_292
+  - first:
+      213: -2127880873514974158
+    second: Sakura_Atlas_293
+  - first:
+      213: 7686445827783448425
+    second: Sakura_Atlas_294
+  - first:
+      213: -7998125217018179364
+    second: Sakura_Atlas_295
+  - first:
+      213: -2942342091000501315
+    second: Sakura_Atlas_296
+  - first:
+      213: -1443275081652311356
+    second: Sakura_Atlas_297
+  - first:
+      213: 2371537498526619364
+    second: Sakura_Atlas_298
+  - first:
+      213: 3755264660988204016
+    second: Sakura_Atlas_299
+  - first:
+      213: -1217952580489567862
+    second: Sakura_Atlas_300
+  - first:
+      213: 2278984452701490408
+    second: Sakura_Atlas_301
+  - first:
+      213: 8389493179021624267
+    second: Sakura_Atlas_302
+  - first:
+      213: -7556004758532548718
+    second: Sakura_Atlas_303
+  - first:
+      213: -5609802623763350447
+    second: Sakura_Atlas_304
+  - first:
+      213: 1543997636255865991
+    second: Sakura_Atlas_305
+  - first:
+      213: 1077040346276877103
+    second: Sakura_Atlas_306
+  - first:
+      213: 1259925829103227830
+    second: Sakura_Atlas_307
+  - first:
+      213: -7454767730281450366
+    second: Sakura_Atlas_308
+  - first:
+      213: -8515999129117189976
+    second: Sakura_Atlas_309
+  - first:
+      213: 3602840907152656414
+    second: Sakura_Atlas_310
+  - first:
+      213: -5643689328654270187
+    second: Sakura_Atlas_311
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sakura_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1236
+        width: 27
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239de9d49ac7ca4d80512360181d28a
+      internalID: 6146219601337741559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1235
+        width: 31
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8656a72d9800d940be2053c3a3d3177
+      internalID: 8275281068048154576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1236
+        width: 31
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088bfbc08517ab48b9d17deef77eeab
+      internalID: 8484205640029784501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1235
+        width: 31
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2872053d080084fac500948b6ca7f2
+      internalID: -2408583426989471801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1236
+        width: 27
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ae689adf03e0244b198a10915a41da
+      internalID: 5020393716587917868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1234
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0d825a55661a4db8b4e7923869029
+      internalID: -7974637129000214816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1169
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2740aa750f91d44b565d2632da6442
+      internalID: -1334125611462683183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1170
+        width: 19
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a783eceba9b3b4c887437ea927f550
+      internalID: 7361114087903328975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1169
+        width: 21
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ea3cf440c75347a66eb98eda99089
+      internalID: -291204899262141921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1167
+        width: 27
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8698feaef18a42a73d347f9659ed5
+      internalID: -8053839471611898532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1168
+        width: 24
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dbc152ea408f84d8b721ec3870d57c
+      internalID: -277387359530851131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1170
+        width: 18
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79a99bd699db0408e2b1f0dbb3d695
+      internalID: -5187163096637275062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1109
+        width: 42
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31355cb5ab862f7418a61eba80a29a2d
+      internalID: 3441165619015075132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1108
+        width: 33
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daebd89a073887948bd3640f5e4383ce
+      internalID: 261243933858794061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1108
+        width: 44
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d1cfdcce17bd44eb1a90649459ffe7
+      internalID: 2870976983312483238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1109
+        width: 47
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb7364590391a408a33d9d55913f49
+      internalID: 996883043723532797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1110
+        width: 39
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b090e0cfa892a074da3d13ad62cf5f89
+      internalID: -6459175147267037437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1033
+        width: 40
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ac6403fccf5c43a4cf11167396918
+      internalID: 6809631230936459188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1035
+        width: 52
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edcbadfc4509f468afa1475354dd52
+      internalID: 8449966240177017118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1035
+        width: 69
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb758d9037e978640a5b787f675b79d2
+      internalID: -1570378227552377167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1043
+        width: 55
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9610843fd685394f91a6607dab8a456
+      internalID: 2455025846768049947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1061
+        width: 27
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee4c4189759d9428b497424cad64bf
+      internalID: 4627232051628943520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1043
+        width: 55
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf63adf2dd66da43a8ef15a7e3ff9a6
+      internalID: 4248796188772320684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1041
+        width: 64
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c69027f4ea4c448fa3496a66e8a3c
+      internalID: 3301447691299379033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1045
+        width: 50
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e878ce6406824b842eef0cd3140e0
+      internalID: 112706534803496833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1041
+        width: 28
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9aa5e0b53c314d8f18361782a5c80
+      internalID: 7372743403441647602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1037
+        width: 28
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e4ae74d42402a42ad4af4290630e80
+      internalID: 848499263937596099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1035
+        width: 30
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75a1fde3843874fad66f4e81d1888d
+      internalID: 9578625971789349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1032
+        width: 32
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b0e99778a6ab4fa10a517edb65a1f
+      internalID: -6680298170249228235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1035
+        width: 35
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138502107caaf9d44aa558a4e62d198d
+      internalID: 2310699260475997009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1056
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6edf6521fdd46743932513861a8f407
+      internalID: -6890431821701163958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1057
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b464180e1a3e4d8fb9f368408b5d6
+      internalID: 5033824270981663521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1048
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c2e118183cda419a4b98af9903e9b
+      internalID: -872331771047003628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1046
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae5aecf3663db44a3d712987bff6a4
+      internalID: -1753613145517008184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1031
+        width: 24
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c9cd4cc0d6514cb22cc7e7c6dee4b
+      internalID: 4186511512811635148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 968
+        width: 30
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cfd76c77df46b4499fa2dced6e0123
+      internalID: 6382594174386814907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 898
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fded37ed454133442ba49dd3bb6f88e2
+      internalID: -91938891757169075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 900
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb22ad13e5ebd94da5150bcf3d41a4b
+      internalID: -3441954309656033218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 900
+        width: 35
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c4b4876fa7744e9f42ee652f01ecf
+      internalID: 6341708248930977990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 899
+        width: 33
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cec2c88aa543c4495872e1e960709d
+      internalID: 1056163947644537421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 900
+        width: 54
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0e94a20e7947428e01403ec7a2863
+      internalID: -7446988504885150523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 900
+        width: 62
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b28ea5d99b1a54089ed385e0c054f1
+      internalID: -1487995894409433819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 908
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f58db4db74af4f865ab2f848a6574
+      internalID: 8428051337255961258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 900
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b411448e71c740ac746f87f04f1c1
+      internalID: -8049534837425500157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 907
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2298d03d51e994da8a2631be6a143a
+      internalID: 425930349300986269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 903
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22502b9482134418a71820b9d4f4ea
+      internalID: 4261520363430750298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 906
+        width: 23
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639dc41010fc06f4896b7052fdb6e4b8
+      internalID: 1545423921827455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 903
+        width: 47
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104c6d8179a9416409b08d6438f1b087
+      internalID: -5004563105679603928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 911
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00720dafa0bfd4a863a846ea242d6b
+      internalID: 5173996651251342329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 907
+        width: 10
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2894ed815d53f24f84464fcc6aad377
+      internalID: -2554077703831373620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 907
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ded1d68ee75814aad81d62ef608478
+      internalID: -9204892678408387257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 905
+        width: 40
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec0338777134f458cadd5211c1a885
+      internalID: -962335490231925354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 905
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bba828bc8766d48bd576b646240199
+      internalID: 5207663683697481207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 906
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed98ed2b543c840888067ff622061d
+      internalID: -3659284977886767369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 900
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7289cb83e43b4c89c5170cfd12799
+      internalID: 7299005829618794820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 904
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee57327bc0edd49852a9be3fcd839f
+      internalID: -1663508984634039118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 899
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec95afb9d858f74fa8f91f8b40b33ff
+      internalID: 8720486778857349467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 907
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362a4666ec1fa43418a5d25739e1608d
+      internalID: -8838284635271010399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 901
+        width: 22
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef9b6ee07851d4f92f738f067f9092
+      internalID: 7852443265012190225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 903
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1054b72fe342ce2429f0ebbbf03b8da1
+      internalID: 704451055971891063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 851
+        width: 26
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa306be89e500468689a6d4a6bebd9
+      internalID: -7654241260667492725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 851
+        width: 44
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc36c99b5bcb02e4eaee2b40f3c9c02d
+      internalID: 202921901911572751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 847
+        width: 34
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d0bea3f35a18c4d92b93bfc9a63404
+      internalID: 7637194319956283394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 842
+        width: 30
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eebc5584f3b9341a2951d45b3960f9
+      internalID: -3258921131101819795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 791
+        width: 29
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c4e4c09e93ff449e93d83d394b2f5
+      internalID: -7009246505702721150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 792
+        width: 31
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe8e2fc779f5047970a72b51629717
+      internalID: -6128944474737929503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 791
+        width: 31
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e90ef6603efc5478fb7b20ec5a517d
+      internalID: 5929088426333873572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 730
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.2525605, y: 0.017325053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973a7b21b2158f42b5c34aa63e492c3
+      internalID: -632586449656838357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 729
+        width: 43
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01957549ce4bcdf48aa7dcad2190f058
+      internalID: 3149997704431091633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 727
+        width: 41
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103134e286a2bd848a76417495c65717
+      internalID: -8498291528674470620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 729
+        width: 35
+        height: 42
+      alignment: 9
+      pivot: {x: 0.22730452, y: 0.02367728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56f46736cf16aa478f60baeb7bdbe74
+      internalID: -371819873199896090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 728
+        width: 28
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e8cdd2c99e0b4e8ad03fd96ebeb18
+      internalID: 623444611920643131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 728
+        width: 40
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764cc76613359634fa2754827031c2b8
+      internalID: -4819731830441592501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 725
+        width: 29
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c2c3fe9e2bef4eb37cd44b118bf1e
+      internalID: 6162536576856711462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 725
+        width: 28
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d204fff8d5c89304c98892f47b619f2b
+      internalID: 8074173326362919085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 724
+        width: 26
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcaa24f589700d4a9f4c0aa5e49c11f
+      internalID: -2905716041783759292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 724
+        width: 44
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5805d434b04f01a478588835178b6291
+      internalID: -2611067096185062805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 725
+        width: 33
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a97ffa4d309c42adfb0060f7f11da
+      internalID: -575208900868413002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 725
+        width: 20
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62b8fe82d6e0148a63eb3706a87c63
+      internalID: 283510530252290714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 35
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b1579a1c624544986cc00cda2d833
+      internalID: 6219434286323605380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 624
+        width: 31
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36feefc9050d74744a30ac50560a7aaa
+      internalID: 7039680166466854272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 623
+        width: 40
+        height: 77
+      alignment: 9
+      pivot: {x: 0.18758067, y: 0.036541034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4123d2e70ee8bec418e0ac4414790150
+      internalID: 4644012876917903727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 624
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.31722757, y: 0.034775637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969b9f54df75684695d71a4812669da
+      internalID: 1889876116716621651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 622
+        width: 39
+        height: 77
+      alignment: 9
+      pivot: {x: 0.23187491, y: 0.03674475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e46a333145054b944294c1c5d4ecf
+      internalID: 2582846827318489149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 622
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dfcc55af14bf43b3365fd3d5d2e6c
+      internalID: -4864807806484208436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 560
+        width: 28
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990269e5c8c254040864a8bb5ecd8719
+      internalID: -845383127365303046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 561
+        width: 40
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5486a67362c94c896171312ce186b
+      internalID: 8342835172674617778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 563
+        width: 35
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899e97217eaf3844915003e02d00300
+      internalID: 4891301254967563682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 592
+        width: 20
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2305261ac6c464a972b4c0f7381aae
+      internalID: -8048366511094262023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 504
+        width: 33
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51762e3eec884d4f9991fbd831f4822
+      internalID: 5065625369919236530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 503
+        width: 29
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c0a735314d14439f25e205f65c73b
+      internalID: -3861174076347375163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 504
+        width: 54
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb96aab8960d24c968bb7bd79d78a3
+      internalID: -5441524473009999723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 505
+        width: 55
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc87a816d256f3e4f85cfa14431273f7
+      internalID: 9218299824361513160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 502
+        width: 54
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c448aafc4f674341b10c6164b279989
+      internalID: -6732902143233097962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 504
+        width: 62
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c87b2d67a12c04cabac0cef7713850
+      internalID: 5008165176908731069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 504
+        width: 62
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f943c22bc3f874ca88e482315a0c3c
+      internalID: -2948962185504893695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 505
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84d683b3525ddc47b8f7065e32451df
+      internalID: -6643925799887655158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 505
+        width: 73
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513382ff58912f5478a1ce8c803da089
+      internalID: -6973275552681544510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 507
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e463549e694347543aad354799500194
+      internalID: 2195047974588435419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 511
+        width: 10
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834ded296e588b4e8cc059bd01bc030
+      internalID: -3149693735673659390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 506
+        width: 57
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c9d036af22f34891db3fa0f6938af
+      internalID: -750223003300591596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 509
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6640aa5781263646b52474cfc1a4f56
+      internalID: 6813651802197098138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 505
+        width: 50
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b0abd30efec94394a13ee2b5139e8
+      internalID: 1729523781019819773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 507
+        width: 51
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f9f5cffbf3394ab2126c1d9e31724
+      internalID: 8946589778316574553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 504
+        width: 36
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba1a61fe88acd47b1cad1465e3752e
+      internalID: 3411519273785977746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 431
+        width: 30
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bc83444fff2d14dbe5cc41f311ac49
+      internalID: -7400521344827676220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 430
+        width: 48
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade97e6d412a3a4786344e29b681033
+      internalID: 617827055790207538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 457
+        width: 54
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d295aa03bccd4cbbace1371d0742f
+      internalID: 6092480877461095883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 458
+        width: 63
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9b120e76c9ba4c92d3a0974c5e028
+      internalID: 6351189940194014031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 466
+        width: 33
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ff07a11d5f62489459f72fe2a0785
+      internalID: 9123012925294969722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 461
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dda00bc87cf6e418eb1614e0898b5b
+      internalID: -7355527023312530409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 467
+        width: 36
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c916f08b3ecda45a0e9960cd8c349a
+      internalID: 8521640620534629643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 462
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3ea005912dbe458dcd1102a315feb
+      internalID: 3656551393351268903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 466
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc222cccc477145816c564874c75a5
+      internalID: -4038472662832972544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 461
+        width: 31
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6669c1df2fc324c8604c5b702dc507
+      internalID: 2408417689414582857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 459
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38794a4a37eb1e644b03a89b3ee2f3a1
+      internalID: 546004046171696429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 459
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2763cc217e879743ad1c1c38fbd1b14
+      internalID: 3703514354659207786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 458
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd560f577571c542ba2aa4471fbad6d
+      internalID: -7642336819304067909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 436
+        width: 21
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85edf539540a26c418bde1f0e2ae5330
+      internalID: -7066768449729749007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 433
+        width: 24
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57ced51e4895ec439645a056ea93691
+      internalID: 6393521377660767853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 445
+        width: 23
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271eaa801a37d7489045555637c845f
+      internalID: -5270600353589865828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 448
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c1c70cf417a214ea865146725fded8
+      internalID: -7461516803679272114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 448
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e537aea2a6f314f90de6277fd1b42c
+      internalID: 9183793056607328530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 447
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c5e3c2b61c6344a3f791d9157c831
+      internalID: 2174615026666563885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 388
+        width: 6
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098afd0defa03cc4ba6d2fac18e4695e
+      internalID: 890941692061318610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 374
+        width: 9
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa99323eeda6f4b94c2cd560fe682a
+      internalID: -5131332283881134069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 370
+        width: 17
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab840b7cd8dea414dbd8ec1cb3e60c1a
+      internalID: 3526220826469964546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 372
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ac9568cf057745aab6d9d65db1d05
+      internalID: 858482971814469729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 370
+        width: 56
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b1b574d98ad847b1607528fd15106
+      internalID: -8961611571564164834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 370
+        width: 63
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede70915832e9944080f10f3e3d689ed
+      internalID: -136536132064948685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 394
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e6cbe10acdf6e408a193ed17df38c3
+      internalID: -6180767130863090861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 369
+        width: 34
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97925d7114fcb0f46ab774b40478ce40
+      internalID: 2128846313584387196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 396
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d55f176c63eb04583159913a4550ed
+      internalID: -2081508669995524155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 394
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5256b502e1105fe4d8defab01f7d7236
+      internalID: -7402247780280579308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 369
+        width: 36
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296f8720e70a334ebfa53651907423e
+      internalID: 3745270716179813024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 397
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e6ded66e5c5741b1cda9358e2c027
+      internalID: 5652986404957018882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 395
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367510820c3eb441b3411443d98d296
+      internalID: 6580668386303727240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 370
+        width: 38
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e178c7ed7600845b015176a82aebc3
+      internalID: 8905096535013734925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 398
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754700c58db580f4d9b6a21b3dddac19
+      internalID: -5921772921512994701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 382
+        width: 23
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c73cd0b17376d64297078e920864841
+      internalID: -5775449626252485759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 383
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7325c561b564549b2421791611f8c2
+      internalID: 863856741807413290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 383
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f2fc495be1e6c4eb88f23ac01b2a76
+      internalID: -5222257988016025661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 384
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e9e32a5aafd244b69b31dca9ba5cf
+      internalID: -5105802895285916968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 359
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9325bd7d63244ebcf88fc09669fad
+      internalID: -854073721564491978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa1167fa9357164cb7291169ad27c0d
+      internalID: 4925272366267191870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 359
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e83f5c33757344b9cac34f54f623d
+      internalID: 8771009073208101045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5341449be480e4468a7ba34ac9fd08a
+      internalID: -4630482903147979602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 359
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c907b0593a42641bc47e846f0d53c3
+      internalID: -6970511710079219109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3932cd607bb5241a520afffa031a89
+      internalID: -6067749561493243264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 359
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e89e088dd31b4984b492b13de2b71
+      internalID: 3738957088470458122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 356
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac514099d59cbf043ba9fc07a2fe83aa
+      internalID: 5017339746365485361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 359
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa392f95829edc44a8c0bca9b4abe729
+      internalID: -6358408463790682623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 359
+        width: 12
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3be2ebf20ac8048b3182a677f2e635
+      internalID: -5770573708626855095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 359
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47b2d652a4575499c20ef99493236f
+      internalID: -7818894806460904368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 359
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c1a08eaaaaca4294b3e15c5be2ec5
+      internalID: -4927362450486308092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 356
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd7f492361ca10499ac1f6cff1fdb15
+      internalID: 4414188348245625040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 356
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b75b588f09c644baedb816c3b2690
+      internalID: -7045234965018090800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c0d9c0d3f6e344ab055a09f7d3f9d
+      internalID: -5715116921268433945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 359
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1a28471e9c2944b889cadf2e68b89
+      internalID: -4109194172466731883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 359
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ae5d4c4b3dba84aa6dc0b96837f5d2
+      internalID: -6736621345603381117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 356
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda537a1c52e4204bbe152b0ca71898a
+      internalID: -2244195023226083214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 359
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7eaae605d5986458e559761e5531e2
+      internalID: -4182450251857566918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50a042b37139044db8952532b712e21
+      internalID: 1617902275557237554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534855d8881a7ec4b91dfe4d1043d4b9
+      internalID: 1556090003595454443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 359
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33306ade2865834a9eaf23452908126
+      internalID: 987412306270980598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 359
+        width: 9
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eeb3f5288906148864dcc7f9195696
+      internalID: -8027119391743512569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da1c173dc0ca6f47937dd19a9ff74c7
+      internalID: -1547688759138942655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 359
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de541955f103d74f8e13f3bc961a5d9
+      internalID: -4748057483796072164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 297
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445db39742e5c24094f00b2d2aaa342
+      internalID: -3270081688654902725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 297
+        width: 56
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0c2c1e57b74441b6d063249c7bcea
+      internalID: 2710054641682573555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 298
+        width: 63
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3a09feae19a34699fdb283c285ebd
+      internalID: -1244936779036665733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 299
+        width: 34
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b4060da2bce4499c18d552ac06d26
+      internalID: -1030414068932729226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 297
+        width: 36
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a928a372b53fb4b9379a1082afaac5
+      internalID: 1804516503295460889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 343
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa316ab6f35a142be5c0a1b80e0788
+      internalID: -7045277245191195300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead6780fc4aa584d8b4310aedcac376
+      internalID: 5123258097542566148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3781a162ab8614f99dd05f9f930749
+      internalID: 4128712786043239968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5df36bac386894d9cc440c2ed1b25a
+      internalID: -6594548638035510199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970525b9c3cae944ea7c467305e17768
+      internalID: 8000574468069946847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 343
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a2a772cd36a243abebeb0fa34fc1c
+      internalID: -476652979203176767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 343
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee665e74b51dee4686ab9e2ec8520a8
+      internalID: 1293277644225094284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 340
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b94918c87bdf40b5d24e2a87f93cf
+      internalID: 6438819292751826205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 343
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e3e3fedd304e4487e2313f0cc1195
+      internalID: 6918511688017433440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef819d43f22715749b11f795490219d1
+      internalID: -2487330221699185229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 343
+        width: 9
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ce1b7dcd78da48973ff350f894181
+      internalID: -7876939164702609197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24adb36a4767aed48882a84e7adba521
+      internalID: 5335128078766180734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 343
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f37b86925dcb54fa9d13eee30617e5
+      internalID: 4304673349653187752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 343
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d10e28d74e7742810aca3ff16f964
+      internalID: -8901909096902296055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50fe21161f32c49a5976bf0d33b471
+      internalID: 7867399560424276011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 343
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad02be7a9cfcb44a0aa812de41e142
+      internalID: 1618052710378689518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 343
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e75634d16d644382f1f2df39ea89c
+      internalID: -4164022943449948608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_196
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 343
+        width: 7
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82686e5bed7541d43a4799da97145558
+      internalID: -3609457979814456587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_197
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07564d3a44e68d42896ab40bfdd6c63
+      internalID: -7211417890709120611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_198
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 343
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b930a937320034f98d11628ace098a
+      internalID: -7061966973495041916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_199
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73a7216ca733d4786be60b25a38298
+      internalID: 8862452017537685520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_200
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 343
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b67c91706c445e4298cb022fec14fb7
+      internalID: 3857475218958568165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_201
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 343
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e5dd1d1a4b6704384c7657207c132d
+      internalID: 5264459470787366824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_202
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129fd02567246244294485902c57ecbc
+      internalID: -6344112485596064513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_203
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 343
+        width: 4
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd021722072564db801ca598df40bb
+      internalID: 9130378646665646780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_204
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 343
+        width: 7
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64743b4367f544b992bd1d3244e58f
+      internalID: -7313693202171966306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_205
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 340
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b5e7351fb893b4d9afcc8f8f232174
+      internalID: -3423101880006773692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_206
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15974ae06220b1b4895227675c65166c
+      internalID: -167485151576276071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_207
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae03ae469f677d49b5d12220417a1d2
+      internalID: -3255974011988154712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_208
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 340
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f05cbb2b9a89949bdb91cad4dfb4f2
+      internalID: 5741196575456480536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_209
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 343
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5fbb7102ce65c46b65c4548498b730
+      internalID: -8221608626837223853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_210
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 343
+        width: 4
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d05b54584e564fba8405da5f67ea4
+      internalID: 5386879099800197562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_211
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 296
+        width: 29
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c5692eaa6b9fc49933b5e1b1587cd3
+      internalID: 2301954651533376465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_212
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 328
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef21f44717c47459070cc5f3222bde
+      internalID: 1922508568411303044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_213
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 330
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9a9b655422ff45b66f3959dacb359
+      internalID: -8074585262677363101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_214
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 326
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79e674b3163eae4c90a9151a12be978
+      internalID: 7249076100053029784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_215
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 329
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4dcc977d82b04dade2fbe2c67eb52
+      internalID: 3334124668997136256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_216
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 327
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e684670364b8f42b987883c69ce42a
+      internalID: 7431998991080732799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_217
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 327
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a5240e917a5314f83237bda12f7aa4
+      internalID: -5126890829296371220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_218
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 327
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822caec1d676f845be81f57a9774005
+      internalID: 1992940202987614614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_219
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 327
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69443986a0758f429205a00c21c83d0
+      internalID: -6540145871859864711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_220
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652d9d51a4c2c94ca04fc060dc2569b
+      internalID: 474999812793198551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_221
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd7a2021391a9e448ad77e372b4ace4
+      internalID: 5972609020415870666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_222
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 327
+        width: 4
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899f05eabfab7534280f531e63cfab93
+      internalID: 2616663195223136322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_223
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aacc2ac18b76bc43971fb3784d16fa4
+      internalID: 1180619075457049050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_224
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb85d161d99b6246841958581a9538e
+      internalID: 6109281698163133923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_225
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982ede2ac280d0448aa4dbee1921039
+      internalID: 8452642482329343409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_226
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e25f3e3a1addf43a1b33cba4c225dd
+      internalID: -4580461938754344803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_227
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f78d227bfee8488e57a2fd3c92901
+      internalID: -7026540867063859807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_228
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 327
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb02229043c4304458556387a7404b1d
+      internalID: -7685641835515868625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_229
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 327
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7102ea97bfc1a4cbfeaad6d8255a29
+      internalID: 3993893306221607035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_230
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 327
+        width: 12
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637ad3a344eefa7449e66be7b36be315
+      internalID: 6903935382158638002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_231
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 324
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a25f44259070429c27c6c4fb17932
+      internalID: -5077178557176935662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_232
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 327
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca594b2c589a7b64db6779064b46f8bb
+      internalID: -8979720247270742994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_233
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843616928ca8744b91c7857ce4c924a
+      internalID: -3495734438190726901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_234
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 327
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4862d95f8efba48a246179d9c8964f
+      internalID: -7126311504528271695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_235
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839316ba621f644faa8ed2c3ca2af16
+      internalID: 3417895670414938491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_236
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 327
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce08f74b4b25e34d88b1dd33dd4751a
+      internalID: -6368546413661693318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_237
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba765d17a3b5f674e9612f843e5129d9
+      internalID: 6866349168712023377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_238
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 327
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1d415f0d9d214894c7fb1f6fb6bdd
+      internalID: -8082152505028232770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_239
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c5e33a9eab8a47bf3fbe4cf615e86
+      internalID: 4499013359296112680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_240
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 327
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b093f43580be043817e55dba2bbc27
+      internalID: 2853857611934706551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_241
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 327
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d23f1e5eca4fb74f84463cef04cb9c3
+      internalID: 3747090559714301197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_242
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 327
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a692a0bd88c0ad41a8cb961678e97a0
+      internalID: -388792474830458825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_243
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 324
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69f6681a042984fb9ad3b2d08477e0
+      internalID: 1817216748385495199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_244
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 327
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f640e276bf9f47b3676d6a6aa8ed6
+      internalID: -3597616406598173890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_245
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 327
+        width: 9
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f6f580849814c479c6adab62129b90
+      internalID: -8105907063015957263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_246
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 314
+        width: 22
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48fb602371c2d84a968aa625fb88ece
+      internalID: -9028623084806111944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_247
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 317
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902cf5af7e45d5d4097e63a1b8ad024b
+      internalID: -8723231647441297777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_248
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 315
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c7b9068008c924b8c759dce7d4261e
+      internalID: 5874236533457411486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_249
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 311
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012c55deaf53da74e912f6d5f58ccc2d
+      internalID: -3828067659968849979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_250
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 311
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cb7070978c75a49b402417ca8c3238
+      internalID: 6898626184061594531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_251
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 311
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f58d43c0b56f75419687c27c2e181a1
+      internalID: 8713502292245371698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_252
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 311
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f013ca9c6b7542b4461c4cf3a63e5
+      internalID: 1513118676522131525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_253
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 311
+        width: 9
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e1f04f83f10c4db78a33498b6d4ed
+      internalID: 9173200729097312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_254
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 311
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abddc98d52fbd146a3e596acae1406b
+      internalID: 7018118665218810982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_255
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 311
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0627c6f70b11647a6ca5e47ff0aeed
+      internalID: -5335074141050356024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_256
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 295
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1050ee94f82024782a77edecdfca89
+      internalID: -1751243066461734205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_257
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 292
+        width: 14
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8892ace4fd52e72428807e071be847a3
+      internalID: 1764104756749167931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_258
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 293
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6203f6ea7827e4b8fad96bc9da80a6
+      internalID: 7111899829404394058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_259
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 293
+        width: 5
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b133e08117987146b3cfa636b548364
+      internalID: 2207081300491199428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_260
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 295
+        width: 6
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a98cede24d564c81f7db7cf647bfd
+      internalID: 8462537843941110587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_261
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 295
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22bd21c5fb367846baa82e2419fa110
+      internalID: -4301758817919227769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_262
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 295
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a3d1c4de6386489a8e233159e71a1
+      internalID: -3334481029339665624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_263
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 295
+        width: 5
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0576d33c6f874faaa2a322985984b
+      internalID: -6248517593524644200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_264
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 295
+        width: 9
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742839f5da066248a4186f221aeaf9d
+      internalID: 2493552266556564459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_265
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 295
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f767aa952949469f3eb1d62195f81
+      internalID: 6299705640713383204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_266
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 295
+        width: 9
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e12343d43a86034da1bd9ec1589fe1d
+      internalID: 4319962867534387525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_267
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 295
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854d3681eebe8c4596c447ee18cd2ff
+      internalID: 4695385110484346152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_268
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 292
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f6392ff8e72124e9b44ba1e38d588d
+      internalID: -2670103349155721703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_269
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 295
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5aebfac84c35d409153f183fd788b5
+      internalID: 4434987388576933569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_270
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 295
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ee45f49cfddb40b4edad6d0971e01
+      internalID: -8798354454263379953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_271
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 293
+        width: 9
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c64fa415316dce4b89aee9b84266a92
+      internalID: 6011181665155570454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_272
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 233
+        width: 23
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed096967a6117de478ae0f8d9e813903
+      internalID: -8349919736972362600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_273
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 233
+        width: 25
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d9e3ba1f6fb846bd300dfeee78d75
+      internalID: 4883304965723900393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_274
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 24
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5c87f8d5c77d740ae11145bdf567d7
+      internalID: -338729248747927195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_275
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 232
+        width: 23
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9214ba757bb174391043b9a5a60e95
+      internalID: -5874642605968425986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_276
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 234
+        width: 25
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb145eea80d1e49bfb576d72293f93
+      internalID: 5651362316043857101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_277
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 233
+        width: 25
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c718d44dbab4b40bdeb7a3934a3780
+      internalID: 3635767344620599840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_278
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 232
+        width: 23
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec5785851aaba40bcaa81f94e12d6b
+      internalID: 745284192378498142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_279
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 230
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051fad5e610223e48adda510864ef901
+      internalID: -2801064503298581719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_280
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 229
+        width: 27
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f31cf0fbe8e3b249ae8ab4b492c3052
+      internalID: 7404030313209965982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_281
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 230
+        width: 48
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a25ff1884a54064683363e37b65d6bc
+      internalID: 4905889635949712953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_282
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 229
+        width: 56
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80640b43b0a1d4ca069502495d67e8
+      internalID: -7751146350493327679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_283
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 227
+        width: 63
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6b32cf39798c4a84fd3d01611cba0
+      internalID: -6470173090551548263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_284
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 260
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6362ed4e76154f8ce6034b46d4959
+      internalID: -3306111415317416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_285
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 230
+        width: 33
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28423fb0cf41d0647b05dbaeddd0115a
+      internalID: 3378548018564740621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_286
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 262
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369d9de82a00ed4889df59baceae823
+      internalID: 5889826451722092452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_287
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 261
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f70f385b239dc47836557c3fc64b12
+      internalID: -5016564143701692787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_288
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 231
+        width: 36
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a73ff190e6ca45924dc08dcac868e
+      internalID: -1772666416251905850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_289
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 264
+        width: 13
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9c18e68f67d64e9c8359cd82ba3dd
+      internalID: -4993723816641374095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_290
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 229
+        width: 28
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb795fbe40a0be4e9666104f155e4fc
+      internalID: -6818120240766138796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_291
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 249
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8f4d1cba4be8f4db978d542ae178d0
+      internalID: 1159027932566699163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_292
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 250
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea61c0cb1b65c4193e4a4390d743df
+      internalID: -7307459913975731738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_293
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 244
+        width: 22
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738992108eb9a440b7617de9f5c213e
+      internalID: -2127880873514974158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_294
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 132
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79966ecf69f293743b4f32fcc32fdbef
+      internalID: 7686445827783448425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_295
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 133
+        width: 41
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f92ea70a74f30a43a035fc982fbd37f
+      internalID: -7998125217018179364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_296
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 157
+        width: 8
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e03bdeea1e574692441a32f4b6dfa
+      internalID: -2942342091000501315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_297
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 53
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5550b8aa9c58d4d8a1f8f8351be69f
+      internalID: -1443275081652311356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_298
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 129
+        width: 53
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b4f9dbecc63d4b9d0561fd97b570d
+      internalID: 2371537498526619364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_299
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 131
+        width: 53
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98fb8d0b0a9124f96b1c2faaa2da4c
+      internalID: 3755264660988204016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_300
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 130
+        width: 53
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fcd694ad5bcc04bb5ef89d0d88d406
+      internalID: -1217952580489567862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_301
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 77
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b79feeed3fed46affcca438b8859e
+      internalID: 2278984452701490408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_302
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 20
+        width: 85
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dcc5690e89bbb4a816bc253da737e2
+      internalID: 8389493179021624267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_303
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 88
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5965660e2c05f834b86d13b7f8fd9bc7
+      internalID: -7556004758532548718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_304
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 85
+        width: 75
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93188895817cf7b4c848cf2332bf7a85
+      internalID: -5609802623763350447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_305
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 19
+        width: 87
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde12e085abfe3a4393a32ed19d96c35
+      internalID: 1543997636255865991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_306
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 90
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33171f2aa32245b4ca26490720615009
+      internalID: 1077040346276877103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_307
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 13
+        width: 85
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a2bf66284edf4d808d112f06e98be
+      internalID: 1259925829103227830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_308
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 14
+        width: 35
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0aadd631ac5d24b949bba83b82d5a2
+      internalID: -7454767730281450366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_309
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 13
+        width: 28
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c96fbcd0888c42af72135d70f7a60
+      internalID: -8515999129117189976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_310
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 11
+        width: 40
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd61bc9c50d40408e35f83e086f2c3
+      internalID: 3602840907152656414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura_Atlas_311
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 29
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ee2f6f994c1b4980c47a46371124d
+      internalID: -5643689328654270187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

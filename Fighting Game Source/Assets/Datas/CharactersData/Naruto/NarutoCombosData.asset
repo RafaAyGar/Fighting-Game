@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 098d7cc27585bc1498f56e881cb40cfe, type: 3}
+  m_Name: NarutoCombosData
+  m_EditorClassIdentifier: 
+  combas:
+  - name: basic combo
+    basicAttackIndex: 0
+    comboAttacks:
+    - attackData: {fileID: 11400000, guid: 6d5bcd448ae476241b070a54001cd1e0, type: 2}
+      cancelTime: 0.38
+      effect: 1
+      input: 113
+      state: 7
+    - attackData: {fileID: 11400000, guid: de650adfca480f54f8459fe8a304bcc2, type: 2}
+      cancelTime: 0.32
+      effect: 0
+      input: 113
+      state: 7
+  - name: strong combo
+    basicAttackIndex: 0
+    comboAttacks:
+    - attackData: {fileID: 11400000, guid: de650adfca480f54f8459fe8a304bcc2, type: 2}
+      cancelTime: 0.14
+      effect: 1
+      input: 99
+      state: 7
+    - attackData: {fileID: 11400000, guid: 97562a7416792064f9a169591a51717d, type: 2}
+      cancelTime: 0.5
+      effect: 0
+      input: 99
+      state: 7
+  - name: shadow jutsu
+    basicAttackIndex: 1
+    comboAttacks:
+    - attackData: {fileID: 11400000, guid: 97562a7416792064f9a169591a51717d, type: 2}
+      cancelTime: 0.62
+      effect: 0
+      input: 122
+      state: 7
+  basicAttacks:
+  - attackData: {fileID: 11400000, guid: 5511b33dbab2d514fa7a7b816e8a6f95, type: 2}
+    cancelTime: 0
+    effect: 1
+    input: 99
+    state: 0
+  - attackData: {fileID: 11400000, guid: 580c2e1e1ec8ef54f8eb4c29cfd38408, type: 2}
+    cancelTime: 1
+    effect: 1
+    input: 122
+    state: 0

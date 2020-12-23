@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 098d7cc27585bc1498f56e881cb40cfe, type: 3}
+  m_Name: SakuraCombosData
+  m_EditorClassIdentifier: 
+  combas:
+  - name: strong combo
+    basicAttackIndex: 1
+    comboAttacks:
+    - attackData: {fileID: 11400000, guid: ca2246431c37a6f4aa0b46668521c3a7, type: 2}
+      cancelTime: 1
+      effect: 0
+      input: 109
+      state: 0
+    - attackData: {fileID: 11400000, guid: e1aa413e893515744b686524507fa211, type: 2}
+      cancelTime: 1
+      effect: 0
+      input: 109
+      state: 0
+  basicAttacks:
+  - attackData: {fileID: 11400000, guid: 2be0281e8679bdb4596766f5e11ef752, type: 2}
+    cancelTime: 1
+    effect: 1
+    input: 108
+    state: 2
+  - attackData: {fileID: 11400000, guid: 334aa8d4c0d0ba84a9d4c348e4526b85, type: 2}
+    cancelTime: 0.16
+    effect: 1
+    input: 109
+    state: 0

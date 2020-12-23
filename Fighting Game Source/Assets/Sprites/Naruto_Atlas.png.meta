@@ -1,0 +1,6691 @@
+fileFormatVersion: 2
+guid: da469d41605252a49aa945fd53fcda8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2348070867377321753
+    second: Naruto_Atlas_0
+  - first:
+      213: -5266545649829379518
+    second: Naruto_Atlas_1
+  - first:
+      213: 7495160605570543511
+    second: Naruto_Atlas_2
+  - first:
+      213: 5904655075115722618
+    second: Naruto_Atlas_3
+  - first:
+      213: -3113510195766676166
+    second: Naruto_Atlas_4
+  - first:
+      213: 4373373384198165414
+    second: Naruto_Atlas_5
+  - first:
+      213: 4771825208823947380
+    second: Naruto_Atlas_6
+  - first:
+      213: 7966045931871046151
+    second: Naruto_Atlas_7
+  - first:
+      213: 8372677485644175343
+    second: Naruto_Atlas_8
+  - first:
+      213: 3574093859044499951
+    second: Naruto_Atlas_9
+  - first:
+      213: -7140949197779207550
+    second: Naruto_Atlas_10
+  - first:
+      213: 7879302803444947236
+    second: Naruto_Atlas_11
+  - first:
+      213: 3467973382796917664
+    second: Naruto_Atlas_12
+  - first:
+      213: 5409477316787529272
+    second: Naruto_Atlas_13
+  - first:
+      213: -6139443919053375619
+    second: Naruto_Atlas_14
+  - first:
+      213: 63238949482166849
+    second: Naruto_Atlas_15
+  - first:
+      213: 7514048726325780316
+    second: Naruto_Atlas_16
+  - first:
+      213: 1384927932416487425
+    second: Naruto_Atlas_17
+  - first:
+      213: -6618772446448485525
+    second: Naruto_Atlas_18
+  - first:
+      213: 7443540396124921536
+    second: Naruto_Atlas_19
+  - first:
+      213: -594898158606571421
+    second: Naruto_Atlas_20
+  - first:
+      213: 8980570369659920200
+    second: Naruto_Atlas_21
+  - first:
+      213: 6173503281254636463
+    second: Naruto_Atlas_22
+  - first:
+      213: 109075037150264809
+    second: Naruto_Atlas_23
+  - first:
+      213: -8716370291706337986
+    second: Naruto_Atlas_24
+  - first:
+      213: 3775856967401791495
+    second: Naruto_Atlas_25
+  - first:
+      213: -8969075711791122303
+    second: Naruto_Atlas_26
+  - first:
+      213: -5426636389729529106
+    second: Naruto_Atlas_27
+  - first:
+      213: 2746436456007968299
+    second: Naruto_Atlas_28
+  - first:
+      213: -2282802780256605532
+    second: Naruto_Atlas_29
+  - first:
+      213: -5158810149606783444
+    second: Naruto_Atlas_30
+  - first:
+      213: -7183356253510019382
+    second: Naruto_Atlas_31
+  - first:
+      213: 7175640687826537726
+    second: Naruto_Atlas_32
+  - first:
+      213: 5962054555524612419
+    second: Naruto_Atlas_33
+  - first:
+      213: 6044995884812791340
+    second: Naruto_Atlas_34
+  - first:
+      213: -1319976823730544294
+    second: Naruto_Atlas_35
+  - first:
+      213: -8749344102755639711
+    second: Naruto_Atlas_36
+  - first:
+      213: -125528100432380498
+    second: Naruto_Atlas_37
+  - first:
+      213: 6825623116030973252
+    second: Naruto_Atlas_38
+  - first:
+      213: 5402434930850486852
+    second: Naruto_Atlas_39
+  - first:
+      213: 1615729763344262246
+    second: Naruto_Atlas_40
+  - first:
+      213: 2435395681585804027
+    second: Naruto_Atlas_41
+  - first:
+      213: -3562101937550830851
+    second: Naruto_Atlas_42
+  - first:
+      213: -622488278416715357
+    second: Naruto_Atlas_43
+  - first:
+      213: -7690964517972634201
+    second: Naruto_Atlas_44
+  - first:
+      213: -1645887130750920461
+    second: Naruto_Atlas_45
+  - first:
+      213: -1968891956942869889
+    second: Naruto_Atlas_46
+  - first:
+      213: -3521318827159248281
+    second: Naruto_Atlas_47
+  - first:
+      213: -6149699420881297817
+    second: Naruto_Atlas_48
+  - first:
+      213: -7536601543089874897
+    second: Naruto_Atlas_49
+  - first:
+      213: -5737023237037427304
+    second: Naruto_Atlas_50
+  - first:
+      213: -7504028460325917925
+    second: Naruto_Atlas_51
+  - first:
+      213: -2176611961230570524
+    second: Naruto_Atlas_52
+  - first:
+      213: -4142426334003778255
+    second: Naruto_Atlas_53
+  - first:
+      213: 2844362817391358296
+    second: Naruto_Atlas_54
+  - first:
+      213: -9054066469914882761
+    second: Naruto_Atlas_55
+  - first:
+      213: 7872955694208196320
+    second: Naruto_Atlas_56
+  - first:
+      213: 628511607715777861
+    second: Naruto_Atlas_57
+  - first:
+      213: -7051929134858467920
+    second: Naruto_Atlas_58
+  - first:
+      213: 7302828077595550616
+    second: Naruto_Atlas_59
+  - first:
+      213: -4371090928358258804
+    second: Naruto_Atlas_60
+  - first:
+      213: 6934462261668121795
+    second: Naruto_Atlas_61
+  - first:
+      213: 1128425139029259081
+    second: Naruto_Atlas_62
+  - first:
+      213: -2945456436447971192
+    second: Naruto_Atlas_63
+  - first:
+      213: 3208758533956092459
+    second: Naruto_Atlas_64
+  - first:
+      213: -68248172144351449
+    second: Naruto_Atlas_65
+  - first:
+      213: -3722448877499893797
+    second: Naruto_Atlas_66
+  - first:
+      213: 7143866981968193935
+    second: Naruto_Atlas_67
+  - first:
+      213: 6167977074457548160
+    second: Naruto_Atlas_68
+  - first:
+      213: -9151655135061742123
+    second: Naruto_Atlas_69
+  - first:
+      213: 300670851395435139
+    second: Naruto_Atlas_70
+  - first:
+      213: -7689089465232629870
+    second: Naruto_Atlas_71
+  - first:
+      213: 6054657517523691499
+    second: Naruto_Atlas_72
+  - first:
+      213: 7272751033879178951
+    second: Naruto_Atlas_73
+  - first:
+      213: -792827816602049671
+    second: Naruto_Atlas_74
+  - first:
+      213: 1892854577490960369
+    second: Naruto_Atlas_75
+  - first:
+      213: 828699488439922490
+    second: Naruto_Atlas_76
+  - first:
+      213: 8498111972144262875
+    second: Naruto_Atlas_77
+  - first:
+      213: 2949186053197054702
+    second: Naruto_Atlas_78
+  - first:
+      213: -4596634894942753311
+    second: Naruto_Atlas_79
+  - first:
+      213: 5867195301393216759
+    second: Naruto_Atlas_80
+  - first:
+      213: 5457654254197297865
+    second: Naruto_Atlas_81
+  - first:
+      213: 6075113409191204055
+    second: Naruto_Atlas_82
+  - first:
+      213: 1785195279005433993
+    second: Naruto_Atlas_83
+  - first:
+      213: 8695637914039128192
+    second: Naruto_Atlas_84
+  - first:
+      213: 4302186887268339159
+    second: Naruto_Atlas_85
+  - first:
+      213: -7349452641379282956
+    second: Naruto_Atlas_86
+  - first:
+      213: -797117181312757921
+    second: Naruto_Atlas_87
+  - first:
+      213: 5838303145346464161
+    second: Naruto_Atlas_88
+  - first:
+      213: 6821297184002555138
+    second: Naruto_Atlas_89
+  - first:
+      213: 8804899467085522511
+    second: Naruto_Atlas_90
+  - first:
+      213: 1708460103140154210
+    second: Naruto_Atlas_91
+  - first:
+      213: -216419369717750643
+    second: Naruto_Atlas_92
+  - first:
+      213: 1343136338363671383
+    second: Naruto_Atlas_93
+  - first:
+      213: 67752848052019209
+    second: Naruto_Atlas_94
+  - first:
+      213: 3580489903942612232
+    second: Naruto_Atlas_95
+  - first:
+      213: -2689177394281191089
+    second: Naruto_Atlas_96
+  - first:
+      213: 3829324636359494176
+    second: Naruto_Atlas_97
+  - first:
+      213: -5782904194347843879
+    second: Naruto_Atlas_98
+  - first:
+      213: -5861103199363045024
+    second: Naruto_Atlas_99
+  - first:
+      213: 3409313958104079930
+    second: Naruto_Atlas_100
+  - first:
+      213: -1466141889587140943
+    second: Naruto_Atlas_101
+  - first:
+      213: -5647119131396548255
+    second: Naruto_Atlas_102
+  - first:
+      213: 9012270948103191607
+    second: Naruto_Atlas_103
+  - first:
+      213: 9205318880259866700
+    second: Naruto_Atlas_104
+  - first:
+      213: -2755075701358633626
+    second: Naruto_Atlas_105
+  - first:
+      213: 4742399710657776711
+    second: Naruto_Atlas_106
+  - first:
+      213: -8036487349783622674
+    second: Naruto_Atlas_107
+  - first:
+      213: -2135531216605504511
+    second: Naruto_Atlas_108
+  - first:
+      213: -1035847952989032755
+    second: Naruto_Atlas_109
+  - first:
+      213: -9090150105276430584
+    second: Naruto_Atlas_110
+  - first:
+      213: 927759410456049591
+    second: Naruto_Atlas_111
+  - first:
+      213: -8908928451101671663
+    second: Naruto_Atlas_112
+  - first:
+      213: -8515333435853833823
+    second: Naruto_Atlas_113
+  - first:
+      213: 7190411567074733438
+    second: Naruto_Atlas_114
+  - first:
+      213: -6400418642664099916
+    second: Naruto_Atlas_115
+  - first:
+      213: 4679466595481724910
+    second: Naruto_Atlas_116
+  - first:
+      213: 4634982089236497168
+    second: Naruto_Atlas_117
+  - first:
+      213: 7947382096581810293
+    second: Naruto_Atlas_118
+  - first:
+      213: -7583251979141347842
+    second: Naruto_Atlas_119
+  - first:
+      213: -3923715532606497067
+    second: Naruto_Atlas_120
+  - first:
+      213: -7495758886003081905
+    second: Naruto_Atlas_121
+  - first:
+      213: -2049497757669183854
+    second: Naruto_Atlas_122
+  - first:
+      213: 8997368939335508222
+    second: Naruto_Atlas_123
+  - first:
+      213: 3837796009103180931
+    second: Naruto_Atlas_124
+  - first:
+      213: 6010236714758176960
+    second: Naruto_Atlas_125
+  - first:
+      213: 1420211791893591272
+    second: Naruto_Atlas_126
+  - first:
+      213: 4412523298393152569
+    second: Naruto_Atlas_127
+  - first:
+      213: 4429497762088028181
+    second: Naruto_Atlas_128
+  - first:
+      213: 3562852299558929817
+    second: Naruto_Atlas_129
+  - first:
+      213: -7368435622956689791
+    second: Naruto_Atlas_130
+  - first:
+      213: 5772134055664993481
+    second: Naruto_Atlas_131
+  - first:
+      213: 5957282620352644697
+    second: Naruto_Atlas_132
+  - first:
+      213: 8287086333174876313
+    second: Naruto_Atlas_133
+  - first:
+      213: -8032593161378829526
+    second: Naruto_Atlas_134
+  - first:
+      213: 1464086859594447615
+    second: Naruto_Atlas_135
+  - first:
+      213: 3095071718672903317
+    second: Naruto_Atlas_136
+  - first:
+      213: -7688299857810302878
+    second: Naruto_Atlas_137
+  - first:
+      213: 7079276784304173201
+    second: Naruto_Atlas_138
+  - first:
+      213: 3441127482758851399
+    second: Naruto_Atlas_139
+  - first:
+      213: 5833626635073244259
+    second: Naruto_Atlas_140
+  - first:
+      213: 2979794172751434825
+    second: Naruto_Atlas_141
+  - first:
+      213: 6016037822012477166
+    second: Naruto_Atlas_142
+  - first:
+      213: -4840630652702385490
+    second: Naruto_Atlas_143
+  - first:
+      213: -6292693919537845413
+    second: Naruto_Atlas_144
+  - first:
+      213: -1960643632654185079
+    second: Naruto_Atlas_145
+  - first:
+      213: -1661866907416367932
+    second: Naruto_Atlas_146
+  - first:
+      213: -6344671992281386837
+    second: Naruto_Atlas_147
+  - first:
+      213: -5980207864542183482
+    second: Naruto_Atlas_148
+  - first:
+      213: 2071150893764110595
+    second: Naruto_Atlas_149
+  - first:
+      213: 4574211306823677614
+    second: Naruto_Atlas_150
+  - first:
+      213: -3101557964983260257
+    second: Naruto_Atlas_151
+  - first:
+      213: -8210198275719476324
+    second: Naruto_Atlas_152
+  - first:
+      213: -7961118619447358847
+    second: Naruto_Atlas_153
+  - first:
+      213: 5184840304886839831
+    second: Naruto_Atlas_154
+  - first:
+      213: 3603005205377309051
+    second: Naruto_Atlas_155
+  - first:
+      213: -8540076112792859239
+    second: Naruto_Atlas_156
+  - first:
+      213: -6455137726357917095
+    second: Naruto_Atlas_157
+  - first:
+      213: -918526708346797456
+    second: Naruto_Atlas_158
+  - first:
+      213: 7394405217255702096
+    second: Naruto_Atlas_159
+  - first:
+      213: -3988636320024166139
+    second: Naruto_Atlas_160
+  - first:
+      213: 5997451207724166803
+    second: Naruto_Atlas_161
+  - first:
+      213: 6310188178015343795
+    second: Naruto_Atlas_162
+  - first:
+      213: -7221918385846261132
+    second: Naruto_Atlas_163
+  - first:
+      213: 6518247235165014103
+    second: Naruto_Atlas_164
+  - first:
+      213: 2363813792678675122
+    second: Naruto_Atlas_165
+  - first:
+      213: -5318037197793793674
+    second: Naruto_Atlas_166
+  - first:
+      213: -4195312176861161302
+    second: Naruto_Atlas_167
+  - first:
+      213: -8721544199723011174
+    second: Naruto_Atlas_168
+  - first:
+      213: 6307827936798057233
+    second: Naruto_Atlas_169
+  - first:
+      213: 236056641038600635
+    second: Naruto_Atlas_170
+  - first:
+      213: -5540662837943681371
+    second: Naruto_Atlas_171
+  - first:
+      213: 7350816543484158155
+    second: Naruto_Atlas_172
+  - first:
+      213: 3639738920810120691
+    second: Naruto_Atlas_173
+  - first:
+      213: 4297347317719709563
+    second: Naruto_Atlas_174
+  - first:
+      213: -2283376208672148495
+    second: Naruto_Atlas_175
+  - first:
+      213: 3582450365342308992
+    second: Naruto_Atlas_176
+  - first:
+      213: 6601008605086697428
+    second: Naruto_Atlas_177
+  - first:
+      213: 7444930153031975414
+    second: Naruto_Atlas_178
+  - first:
+      213: -3625714885126878292
+    second: Naruto_Atlas_179
+  - first:
+      213: 1350028883777997887
+    second: Naruto_Atlas_180
+  - first:
+      213: 6342311035100259283
+    second: Naruto_Atlas_181
+  - first:
+      213: -5283093035507950664
+    second: Naruto_Atlas_182
+  - first:
+      213: -5630670582642830949
+    second: Naruto_Atlas_183
+  - first:
+      213: 5137411050534723329
+    second: Naruto_Atlas_184
+  - first:
+      213: 1382204944552784411
+    second: Naruto_Atlas_185
+  - first:
+      213: -3818852796514103008
+    second: Naruto_Atlas_186
+  - first:
+      213: -7308647813314793730
+    second: Naruto_Atlas_187
+  - first:
+      213: 5934258643526611321
+    second: Naruto_Atlas_188
+  - first:
+      213: -3188468028892716281
+    second: Naruto_Atlas_189
+  - first:
+      213: -5540606580485341289
+    second: Naruto_Atlas_190
+  - first:
+      213: -2976591080337105577
+    second: Naruto_Atlas_191
+  - first:
+      213: -6812322413018066573
+    second: Naruto_Atlas_192
+  - first:
+      213: 7659417126342569840
+    second: Naruto_Atlas_193
+  - first:
+      213: 1102200837504517029
+    second: Naruto_Atlas_194
+  - first:
+      213: -281095287479207210
+    second: Naruto_Atlas_195
+  - first:
+      213: 1779295468761400399
+    second: Naruto_Atlas_196
+  - first:
+      213: 2315956908465756215
+    second: Naruto_Atlas_197
+  - first:
+      213: 5015683953851151338
+    second: Naruto_Atlas_198
+  - first:
+      213: -694296835338270491
+    second: Naruto_Atlas_199
+  - first:
+      213: 8267214675000383441
+    second: Naruto_Atlas_200
+  - first:
+      213: -3882539683056789389
+    second: Naruto_Atlas_201
+  - first:
+      213: -6854643388162094905
+    second: Naruto_Atlas_202
+  - first:
+      213: -5960576833717002431
+    second: Naruto_Atlas_203
+  - first:
+      213: -5573332882963341302
+    second: Naruto_Atlas_204
+  - first:
+      213: 8270762998377478124
+    second: Naruto_Atlas_205
+  - first:
+      213: -669443948795108664
+    second: Naruto_Atlas_206
+  - first:
+      213: -4243843529191181481
+    second: Naruto_Atlas_207
+  - first:
+      213: -8966244203870867902
+    second: Naruto_Atlas_208
+  - first:
+      213: -8389283403897496791
+    second: Naruto_Atlas_209
+  - first:
+      213: 2469746924310900103
+    second: Naruto_Atlas_210
+  - first:
+      213: 6490742087535046406
+    second: Naruto_Atlas_211
+  - first:
+      213: 6506120097073587706
+    second: Naruto_Atlas_212
+  - first:
+      213: -8704887540648205362
+    second: Naruto_Atlas_213
+  - first:
+      213: 5550360393523132636
+    second: Naruto_Atlas_214
+  - first:
+      213: 5406089137665729662
+    second: Naruto_Atlas_215
+  - first:
+      213: 7929547471065348861
+    second: Naruto_Atlas_216
+  - first:
+      213: 4873546319841275498
+    second: Naruto_Atlas_217
+  - first:
+      213: -5467212322217803592
+    second: Naruto_Atlas_218
+  - first:
+      213: 8542786567457453775
+    second: Naruto_Atlas_219
+  - first:
+      213: 4971148553992180703
+    second: Naruto_Atlas_220
+  - first:
+      213: 8518411361962817989
+    second: Naruto_Atlas_221
+  - first:
+      213: 2042778107396661508
+    second: Naruto_Atlas_222
+  - first:
+      213: -1298864557831144603
+    second: Naruto_Atlas_223
+  - first:
+      213: -5106042561810950234
+    second: Naruto_Atlas_224
+  - first:
+      213: 2217673546272929779
+    second: Naruto_Atlas_225
+  - first:
+      213: -315956496144982257
+    second: Naruto_Atlas_226
+  - first:
+      213: 8148047263497378141
+    second: Naruto_Atlas_227
+  - first:
+      213: -7899977964458199753
+    second: Naruto_Atlas_228
+  - first:
+      213: -5752664508620788914
+    second: Naruto_Atlas_229
+  - first:
+      213: -45066808822784187
+    second: Naruto_Atlas_230
+  - first:
+      213: -7421141724300556242
+    second: Naruto_Atlas_231
+  - first:
+      213: 3384575507674797511
+    second: Naruto_Atlas_232
+  - first:
+      213: 2347027654756060820
+    second: Naruto_Atlas_233
+  - first:
+      213: -556136968700451459
+    second: Naruto_Atlas_234
+  - first:
+      213: 3418838443751268599
+    second: Naruto_Atlas_235
+  - first:
+      213: -3952062857640200047
+    second: Naruto_Atlas_236
+  - first:
+      213: -4784997897633042937
+    second: Naruto_Atlas_237
+  - first:
+      213: -3796820342050578222
+    second: Naruto_Atlas_238
+  - first:
+      213: -1482388960460084071
+    second: Naruto_Atlas_239
+  - first:
+      213: 3964115811284598247
+    second: Naruto_Atlas_240
+  - first:
+      213: -7501284127371580562
+    second: Naruto_Atlas_241
+  - first:
+      213: 8191014195838840281
+    second: Naruto_Atlas_242
+  - first:
+      213: -8177200990284157954
+    second: Naruto_Atlas_243
+  - first:
+      213: 7986098801300011825
+    second: Naruto_Atlas_244
+  - first:
+      213: 4489725891038378775
+    second: Naruto_Atlas_245
+  - first:
+      213: -753693959103122382
+    second: Naruto_Atlas_246
+  - first:
+      213: 7445901773384613186
+    second: Naruto_Atlas_247
+  - first:
+      213: -7382442431141088781
+    second: Naruto_Atlas_248
+  - first:
+      213: -8694048916072937479
+    second: Naruto_Atlas_249
+  - first:
+      213: 8351633760140004126
+    second: Naruto_Atlas_250
+  - first:
+      213: 2996694102529796777
+    second: Naruto_Atlas_251
+  - first:
+      213: -5904870900591975955
+    second: Naruto_Atlas_252
+  - first:
+      213: 886696585209890631
+    second: Naruto_Atlas_253
+  - first:
+      213: -7388933244226650452
+    second: Naruto_Atlas_254
+  - first:
+      213: -4333362549857130543
+    second: Naruto_Atlas_255
+  - first:
+      213: 3457998778718055331
+    second: Naruto_Atlas_256
+  - first:
+      213: -1658421065367024123
+    second: Naruto_Atlas_257
+  - first:
+      213: 3162542182141359677
+    second: Naruto_Atlas_258
+  - first:
+      213: -2808412760211819430
+    second: Naruto_Atlas_259
+  - first:
+      213: 8553317502294314871
+    second: Naruto_Atlas_260
+  - first:
+      213: -4453602327565470689
+    second: Naruto_Atlas_261
+  - first:
+      213: -2564973388129822783
+    second: Naruto_Atlas_262
+  - first:
+      213: -7758362750223182443
+    second: Naruto_Atlas_263
+  - first:
+      213: 563877107887842174
+    second: Naruto_Atlas_264
+  - first:
+      213: -8308323559897583943
+    second: Naruto_Atlas_265
+  - first:
+      213: -8849617408838435568
+    second: Naruto_Atlas_266
+  - first:
+      213: -3956462291726746889
+    second: Naruto_Atlas_267
+  - first:
+      213: 7662377714908064254
+    second: Naruto_Atlas_268
+  - first:
+      213: -145305666656137263
+    second: Naruto_Atlas_269
+  - first:
+      213: 162494352836978218
+    second: Naruto_Atlas_270
+  - first:
+      213: 789004133646011553
+    second: Naruto_Atlas_271
+  - first:
+      213: 4854584951258357174
+    second: Naruto_Atlas_272
+  - first:
+      213: 1135138597790302964
+    second: Naruto_Atlas_273
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naruto_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1897
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73655a53eca9f694183511cda2f3dc58
+      internalID: 2348070867377321753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1896
+        width: 34
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fee7d8791064841ba60038e4246b9b
+      internalID: -5266545649829379518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1896
+        width: 34
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12741291b64b33d489c5c7e1c3a97bf4
+      internalID: 7495160605570543511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1896
+        width: 34
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12adb9f04874404aa7cac048bb95bfd
+      internalID: 5904655075115722618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1897
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19022f2b5f7548047b2120a833fa59d8
+      internalID: -3113510195766676166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1898
+        width: 35
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dbbc11bcc17cf459bac390fb07af12
+      internalID: 4373373384198165414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1831
+        width: 32
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ebf1dcd6257294680dfdf2c2ac09c1
+      internalID: 4771825208823947380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1833
+        width: 24
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996e23c1745e284ab2c22735bc894ab
+      internalID: 7966045931871046151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1835
+        width: 25
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e8835e77168a34baec6818c7823b55
+      internalID: 8372677485644175343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1834
+        width: 24
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b657ccb09f3447b9e713d6e15026d
+      internalID: 3574093859044499951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1834
+        width: 22
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb233f233f66b4991d29c8ebfce054
+      internalID: -7140949197779207550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1834
+        width: 23
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d119309518ecdb44b64873326ac7548
+      internalID: 7879302803444947236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1763
+        width: 57
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3083b5a5fd3743af9514b898c74e0
+      internalID: 3467973382796917664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1763
+        width: 50
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1787273f76b05b846a04631a9ea8a321
+      internalID: 5409477316787529272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1766
+        width: 45
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d2db6d2b5c73a4b80f312ef9186736
+      internalID: -6139443919053375619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1765
+        width: 56
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57079a98f02d5b844a16ab6d42bfb04a
+      internalID: 63238949482166849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1763
+        width: 52
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb6d5faecf7fc40a5abeacec7411d7
+      internalID: 7514048726325780316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1764
+        width: 48
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc13f14d21fcc4b9be571be1c52e0b
+      internalID: 1384927932416487425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1700
+        width: 40
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fef4743e1654d341a97e1dac76ebe47
+      internalID: -6618772446448485525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1697
+        width: 53
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec14de3ac50754fa058a023b84cc6b
+      internalID: 7443540396124921536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1702
+        width: 51
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ee891178b42946a619ab9b3c73428
+      internalID: -594898158606571421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1704
+        width: 47
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d20e2d252adf9c47b5be154a579becf
+      internalID: 8980570369659920200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1636
+        width: 34
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3b1fcaea61584bb26796d1e4055fb
+      internalID: 6173503281254636463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1634
+        width: 31
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b8c81b6c43094580d0fe5036fe089
+      internalID: 109075037150264809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1571
+        width: 44
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af313a1042fb52642a16ce04d2b78ccf
+      internalID: -8716370291706337986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1570
+        width: 44
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c48e6cb219c60489ca875ee6a007d2
+      internalID: 3775856967401791495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1570
+        width: 30
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f7ff5aec796a4882a4b82f9342d32
+      internalID: -8969075711791122303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1568
+        width: 30
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a13a635c5924449c6087bae82a9d4
+      internalID: -5426636389729529106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1567
+        width: 54
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6e64f6e692204b9528dad69856820
+      internalID: 2746436456007968299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1570
+        width: 62
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f59a587d45f6e04ab7fc1575731c230
+      internalID: -2282802780256605532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1572
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d345c7def0d04fa1ad492cd2bf7e1
+      internalID: -5158810149606783444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1580
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced38506b9c52c24aa889a496d7ed49f
+      internalID: -7183356253510019382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1572
+        width: 48
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19302049d447ef409de03ffb05ae34a
+      internalID: 7175640687826537726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1571
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cfa3d666910714b8019d96c1711769
+      internalID: 5962054555524612419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1576
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1cf866a0c91344291553649192f0a6
+      internalID: 6044995884812791340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1574
+        width: 51
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6b9bb67052cca449eb26db73812e54
+      internalID: -1319976823730544294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1574
+        width: 6
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cd8848cc1836488eef86f74ff7eff
+      internalID: -8749344102755639711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1575
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4334d45fe4f394d91203f82c9c1532
+      internalID: -125528100432380498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1576
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d3676e2aa8ed48a3c01529cf93916
+      internalID: 6825623116030973252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1502
+        width: 34
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5770e0ca8e7f1ec47a137e4fe595a7d1
+      internalID: 5402434930850486852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1497
+        width: 35
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278699d4a7224d345b99bed3a2f9ea42
+      internalID: 1615729763344262246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1503
+        width: 32
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7b77147bc33ff47ab86e2c8eab28b0
+      internalID: 2435395681585804027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1499
+        width: 31
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa009dba462a8499ae43d690d0d4e9
+      internalID: -3562101937550830851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1499
+        width: 32
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2927b36d611714d906bededb6b6879
+      internalID: -622488278416715357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1449
+        width: 32
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad81feb9188224e88fc81fbd374de2
+      internalID: -7690964517972634201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1392
+        width: 45
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf56639e1921c342b391f5a98deb936
+      internalID: -1645887130750920461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1392
+        width: 40
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7041c524e9196e4293f25707d44ea6c
+      internalID: -1968891956942869889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1392
+        width: 46
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a06858c5e6c204798eea979389b791
+      internalID: -3521318827159248281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1392
+        width: 45
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19301c54219c46a418622691d3db7c24
+      internalID: -6149699420881297817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1324
+        width: 45
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc70d3cbd2f1aa4fa33a502b3e2fc98
+      internalID: -7536601543089874897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1323
+        width: 40
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a078dea37d54694f94ccca4c0d30175
+      internalID: -5737023237037427304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1324
+        width: 52
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e2af759ff0a04280fe56cf379e27f
+      internalID: -7504028460325917925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1325
+        width: 45
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba520ab2a0f04a749b7f408343cd482f
+      internalID: -2176611961230570524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1324
+        width: 40
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe43e208c44844387374cfe0ff919f
+      internalID: -4142426334003778255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1325
+        width: 52
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43de3b03ecabc946b50a65e5e27524a
+      internalID: 2844362817391358296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1325
+        width: 38
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad7c6c73df4854384a9c67ff855d87
+      internalID: -9054066469914882761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1326
+        width: 47
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94992cff3813d43959d70934b6305e
+      internalID: 7872955694208196320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1324
+        width: 52
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913fcf05fadb1cb4daa5629a3b3fec8a
+      internalID: 628511607715777861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1325
+        width: 44
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5654313f8831a254083b40703bb6ad9d
+      internalID: -7051929134858467920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1256
+        width: 51
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68ddc86fa50db40b6024ba2c2ddaff
+      internalID: 7302828077595550616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1254
+        width: 48
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9d66829b88f454f8fb30e1f9546adf
+      internalID: -4371090928358258804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1254
+        width: 46
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55d55007c3d3f4eb1d34322f723c71
+      internalID: 6934462261668121795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1249
+        width: 35
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd959d277ea62418507a13b5ad1ac1
+      internalID: 1128425139029259081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1248
+        width: 35
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f72d550c77e2f4d99c209066897696
+      internalID: -2945456436447971192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1175
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18df6a34fc938904bb9508d6fb81db47
+      internalID: 3208758533956092459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1177
+        width: 38
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d2e96e5ee4b74da2966dbdbb2a94b
+      internalID: -68248172144351449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1180
+        width: 48
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c2fac94f1ac74aab1ad9293977dd0
+      internalID: -3722448877499893797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1183
+        width: 63
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16d1292fce747488c352483a4ce0e5
+      internalID: 7143866981968193935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1223
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552908707d9c1394e993d943bb9e5bdf
+      internalID: 6167977074457548160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1218
+        width: 12
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05bf52c63b7889448ea5501a17dc8d0
+      internalID: -9151655135061742123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1201
+        width: 25
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309006263582a2349838ec2fb950e5c5
+      internalID: 300670851395435139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1225
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a55c7fe4020847bf5c813f054e26b
+      internalID: -7689089465232629870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1176
+        width: 31
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e8e40084e40640b1de7114504bf18
+      internalID: 6054657517523691499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1176
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34688a26006d8db4f905e7051ea31b70
+      internalID: 7272751033879178951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1175
+        width: 40
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d524c538a25c1d4cbe74bbb5a5530f4
+      internalID: -792827816602049671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1215
+        width: 7
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb19eff32885d7419c04c0e86378e49
+      internalID: 1892854577490960369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1208
+        width: 15
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25792e3e1ffd2be4292f073566a664da
+      internalID: 828699488439922490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1193
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be638310687b7f4b99aecd7f10ea59e
+      internalID: 8498111972144262875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1200
+        width: 8
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be67915b63baf43a56f403937da52d
+      internalID: 2949186053197054702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1181
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beefe046b5f8a4648b1aca065858e9de
+      internalID: -4596634894942753311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1182
+        width: 12
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700196d9122b6043a11be76330bb5a4
+      internalID: 5867195301393216759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1184
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b09052176f11194abd2c28221a90480
+      internalID: 5457654254197297865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1184
+        width: 11
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5a4b77ca2667438d141defed97f3e
+      internalID: 6075113409191204055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1184
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431be718fae14af4b83b0a6095b86f10
+      internalID: 1785195279005433993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1090
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325270161ff2411499c595a3604da43f
+      internalID: 8695637914039128192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1088
+        width: 38
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605e9138fad4d14aaafc937347170a0
+      internalID: 4302186887268339159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1090
+        width: 48
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37b938f58cc8e4787f492af45a314b
+      internalID: -7349452641379282956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1089
+        width: 63
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8399feff215acc4a9ee1966d6134476
+      internalID: -797117181312757921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1142
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3a75f11e67404fb7145d769eadc42
+      internalID: 5838303145346464161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1091
+        width: 51
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3151bfbdd50f014ea733c27085b3a3f
+      internalID: 6821297184002555138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1139
+        width: 12
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cce01d3f90d454fa8721455df5dcc6
+      internalID: 8804899467085522511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1144
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa95534fda0c41a46b885f1bce045bc1
+      internalID: 1708460103140154210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1134
+        width: 7
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0a6fe156ed1dc448e52e513eb2bae7
+      internalID: -216419369717750643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1090
+        width: 35
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5131c1a3bfe24f8a1606296947867
+      internalID: 1343136338363671383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1114
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7d24f2df8fe747bf613e4b500693c
+      internalID: 67752848052019209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1119
+        width: 8
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aee79a54458bd4691cfecf5a4854ac
+      internalID: 3580489903942612232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1090
+        width: 36
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d324bd32a0c94fbc9b4d72a0596eb
+      internalID: -2689177394281191089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1101
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a5fe7fd3c44754897773d2a297e768
+      internalID: 3829324636359494176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1103
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0ef7409f57a834cb0e46e9cc7472d5
+      internalID: -5782904194347843879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1090
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7421fe12e89341925dbb7a4d14d78
+      internalID: -5861103199363045024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1007
+        width: 48
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c1299d1d50ee1479beef4b2787e3e4
+      internalID: 3409313958104079930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1007
+        width: 63
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1efab877b5ee46a8d5e9ea4078487
+      internalID: -1466141889587140943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1063
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17430670582e72c4a9a83ec96ca9187e
+      internalID: -5647119131396548255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1011
+        width: 39
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60485cae9527f84492a610514279733
+      internalID: 9012270948103191607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1048
+        width: 22
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483fd7a84293ea14fadf70806c4a4257
+      internalID: 9205318880259866700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1065
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794e42d0016645d42a9ffc50d75d175a
+      internalID: -2755075701358633626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1014
+        width: 30
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d1334286f24f43a01fdbe25aa4d88
+      internalID: 4742399710657776711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1005
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d916cb4809df419de98f3f8fa7568
+      internalID: -8036487349783622674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1003
+        width: 38
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682a9a2a1ee8374aa50933ff5acb2ae
+      internalID: -2135531216605504511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1055
+        width: 7
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cdb9fb44cab24488eabf74524a93c8
+      internalID: -1035847952989032755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1035
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca670126243372f4cad34c7b333f2a1c
+      internalID: -9090150105276430584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1040
+        width: 11
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e66f37b669004fb8e224f4de9458e
+      internalID: 927759410456049591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1004
+        width: 36
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4914e62efc7fa4eb6ec0643cfebbb7
+      internalID: -8908928451101671663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1022
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5e8bf0155ce641a307eed522e0484
+      internalID: -8515333435853833823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1024
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd00dc5e93d8ed4e9d254a602a7d06b
+      internalID: 7190411567074733438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1004
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b1d735dc3312498cc05ac5417243c
+      internalID: -6400418642664099916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 31
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3fae249a2a4e4aba8f60d51498763
+      internalID: 4679466595481724910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 928
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96599c3bde40d8047b092587ed7ab363
+      internalID: 4634982089236497168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 932
+        width: 44
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53086d53b2206645bdb9a6fc45bd5ab
+      internalID: 7947382096581810293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 931
+        width: 42
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a19783edad46d14f90b70958e9c37ae
+      internalID: -7583251979141347842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 933
+        width: 42
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08101f16aaa615e4e8e28bc43a57044a
+      internalID: -3923715532606497067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 933
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7dfcd31abf7847a4bbbd37f5596c8
+      internalID: -7495758886003081905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 934
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce186089129b8643a081fa5d9ee5747
+      internalID: -2049497757669183854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 933
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aeb417d35ceca429a61a92a38589b8
+      internalID: 8997368939335508222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 934
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614983f1c9c594a4a8cf3d9d4e66e152
+      internalID: 3837796009103180931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 935
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3718901ae7a429c4d86319811b5f0bfe
+      internalID: 6010236714758176960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 934
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f813a957bfc042b022628317e6f5f
+      internalID: 1420211791893591272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 936
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7da5661d7ee524ab17a1cea0e22c5e
+      internalID: 4412523298393152569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 870
+        width: 36
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60843cca9e535d498775b53169caad4
+      internalID: 4429497762088028181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 873
+        width: 37
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ecea3c35bc534e85e440a04dfb687
+      internalID: 3562852299558929817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 871
+        width: 39
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d496a6cc1d4c6499882e1916fe2be0
+      internalID: -7368435622956689791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 875
+        width: 39
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c0d24c90c05c84f8f3035c2193bb25
+      internalID: 5772134055664993481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 759
+        width: 240
+        height: 155
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b936d0b8e4b9fa41a862fd5831e0f9c
+      internalID: 5957282620352644697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 35
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f627265e5ed4634fb2c892fe986bb12
+      internalID: 8287086333174876313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 694
+        width: 39
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f9be14d9fe954f961fefedecc4de4
+      internalID: -8032593161378829526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 696
+        width: 48
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff3aa6d9922ab45b2625be53f31f91
+      internalID: 1464086859594447615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 693
+        width: 56
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091371785ae5b748ba8ca9cc38ce94e
+      internalID: 3095071718672903317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 728
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac346b246756d3f4a899dc56dc0e5fc7
+      internalID: -7688299857810302878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 692
+        width: 40
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cff40699fb7c42884a85717e267c2
+      internalID: 7079276784304173201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 731
+        width: 10
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a374cd67d49f40beaa38172c0d1ea
+      internalID: 3441127482758851399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 690
+        width: 39
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9cacb991bf6064fa99873a15502f63
+      internalID: 5833626635073244259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 694
+        width: 39
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae80a7096ef60b458a43737418a6af4
+      internalID: 2979794172751434825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 695
+        width: 39
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41180e2d4187f240a9a6f5863fc284a
+      internalID: 6016037822012477166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 693
+        width: 39
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee433172f29b93f4bb4b9972f21e22be
+      internalID: -4840630652702385490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 697
+        width: 39
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16c33f199a0ce41b7cbccc3853653c
+      internalID: -6292693919537845413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 713
+        width: 14
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98509fe4b23060642b9299eb608d095e
+      internalID: -1960643632654185079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 716
+        width: 13
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3795255206b0438794c46b70c88d5
+      internalID: -1661866907416367932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 698
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a65ad53df9cb4da72c562273321ed
+      internalID: -6344671992281386837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 699
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef572acb0625a694c9f40f04c76e02a3
+      internalID: -5980207864542183482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 701
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c072ccb32e56f644b266d73044d7b3e
+      internalID: 2071150893764110595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 696
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7244cc795c394ca07d6847d9aeea3
+      internalID: 4574211306823677614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 694
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f3704bb91c6144cae4808072f75055
+      internalID: -3101557964983260257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 697
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d954cce336066a4d800a91e5f3024bd
+      internalID: -8210198275719476324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 657
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0de28e54437049aff3d7f82a24f68
+      internalID: -7961118619447358847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 627
+        width: 45
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4e062074d7f84991d0553f4d21d5d
+      internalID: 5184840304886839831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 666
+        width: 5
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e4cd6804ed07543b2bbc9d04c441d0
+      internalID: 3603005205377309051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 630
+        width: 43
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528281167461be540b785b2e32f5b398
+      internalID: -8540076112792859239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 632
+        width: 43
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19d8385b5ed7f41bd39eb06d7fe050
+      internalID: -6455137726357917095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 617
+        width: 43
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60b3508ed95524e8f53ccc36755212
+      internalID: -918526708346797456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 613
+        width: 43
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7125419eb9dfe6b4c881c45b53018339
+      internalID: 7394405217255702096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 614
+        width: 48
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8f14983c7d8a4ca53344387709fa1
+      internalID: -3988636320024166139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 614
+        width: 54
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3c784b85bc4246a3b643f4d8b0cc5
+      internalID: 5997451207724166803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 635
+        width: 43
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a08bc9ee4c4ab54ca5c6ef4c15ab035
+      internalID: 6310188178015343795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 609
+        width: 39
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46cd5e45f302943a58ef0a41786f9a
+      internalID: -7221918385846261132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 610
+        width: 22
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e0fe4868a4ca446b1c2d601063ba8c
+      internalID: 6518247235165014103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 614
+        width: 6
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a258ed7b750324497ebff90c88e443
+      internalID: 2363813792678675122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 619
+        width: 7
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d0d5e5c6218b640a0538d8ae2535b7
+      internalID: -5318037197793793674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 613
+        width: 22
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44761b1309efe074e922f9e29a83f8eb
+      internalID: -4195312176861161302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 617
+        width: 6
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc9e0e321d8a848b980065d36e563c
+      internalID: -8721544199723011174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 621
+        width: 7
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5447b7208cdfa419ed5c20fdb54eae
+      internalID: 6307827936798057233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 615
+        width: 22
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad22071d641b654e9c483f4e9151e3f
+      internalID: 236056641038600635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 619
+        width: 6
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63affc95aeaeb47902caf6db9b4c66
+      internalID: -5540662837943681371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 613
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61093a02f25bf246b1823601cb86479
+      internalID: 7350816543484158155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 616
+        width: 7
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61761a245a8b1b4aacb3a0a46b80a72
+      internalID: 3639738920810120691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 527
+        width: 50
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a768a92cea155d848840bd533076cc4e
+      internalID: 4297347317719709563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 593
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050b48468b32f446857b8b860a2f4f3
+      internalID: -2283376208672148495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 531
+        width: 63
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e0323e88e6bc44b8a568e764c3eb7
+      internalID: 3582450365342308992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 527
+        width: 77
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b122cada441ea64099a35e72663945a
+      internalID: 6601008605086697428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 535
+        width: 38
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18663a2619c4a5845bc50cf713e3b283
+      internalID: 7444930153031975414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 537
+        width: 37
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efaad2f5bf58b44829b35b9114fca9
+      internalID: -3625714885126878292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 537
+        width: 39
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba8a2a2fa434e46b1b74153f616004
+      internalID: 1350028883777997887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 534
+        width: 47
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afbc9e0d3d4ac4fb51ad9935eabe67
+      internalID: 6342311035100259283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 528
+        width: 55
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4813a3528e7e9a64eb07e2117a6b1a07
+      internalID: -5283093035507950664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 557
+        width: 8
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485473d0811ea1349aece7e814384029
+      internalID: -5630670582642830949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 536
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4ad9bcda6e1c489b0a88d5c55fa67
+      internalID: 5137411050534723329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 532
+        width: 49
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6e1a4c60b161439cd345698187a6c
+      internalID: 1382204944552784411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 541
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e21196a0e81bd4f999848d4088871f
+      internalID: -3818852796514103008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 49
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc9ef9940fe0f4080f1d7eda33c17c
+      internalID: -7308647813314793730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 502
+        width: 16
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde5cc2a65eac04781f23489a98fab8
+      internalID: 5934258643526611321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 460
+        width: 45
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d897b352051b349b0e816f240dc098
+      internalID: -3188468028892716281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 462
+        width: 51
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a8d71337f6b84987b8c0382124623
+      internalID: -5540606580485341289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 499
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb47be9353a1774da9190cf5f9e9f59
+      internalID: -2976591080337105577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 458
+        width: 59
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa482241025993479d4f6284d8049c1
+      internalID: -6812322413018066573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 499
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c15666ae41d04da5951ace3881993
+      internalID: 7659417126342569840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 464
+        width: 48
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f20eaeae707a249bd7d4c9ccedc00a
+      internalID: 1102200837504517029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 504
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca229318b649ee49a83e3a55c940133
+      internalID: -281095287479207210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_196
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 460
+        width: 55
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38db19727920349b5cc538c1ab2376
+      internalID: 1779295468761400399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_197
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 461
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463ce88dfbc1194d9de165881bf75ee
+      internalID: 2315956908465756215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_198
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 455
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3e83802f1a7e49951cc15e1d3df70
+      internalID: 5015683953851151338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_199
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 453
+        width: 38
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532a1921405c6548bfa1aecc43ddfc9
+      internalID: -694296835338270491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_200
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 455
+        width: 48
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468617b504a0b44aa18394210d4af1f
+      internalID: 8267214675000383441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 57
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23747e1c95bae3749b2d1c14659a4d76
+      internalID: -3882539683056789389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_202
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 437
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b1cda9f3c021f459ae04018b48ce02
+      internalID: -6854643388162094905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 386
+        width: 51
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae52066d2213644cbde62dcde01260f
+      internalID: -5960576833717002431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_204
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 434
+        width: 12
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac695bb8fe8de8d4184a3e3e5fcc664b
+      internalID: -5573332882963341302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_205
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315a818c4d70c84281049d4c2e3e40d
+      internalID: 8270762998377478124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_206
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 429
+        width: 7
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ac4fa8c94e5d41bc9a97b2a8d3d9b
+      internalID: -669443948795108664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_207
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 385
+        width: 35
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcaf7c207bf4f42b77cf557a90420e
+      internalID: -4243843529191181481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_208
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 409
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706db25ecbedb044a1b0e238f3f2e47
+      internalID: -8966244203870867902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_209
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 414
+        width: 8
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002f034edd6e9149be85079ac883971
+      internalID: -8389283403897496791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_210
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 396
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca54c814624ab4c94537b3b3532660
+      internalID: 2469746924310900103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 398
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330f31eae077c094e80ff8f374e62063
+      internalID: 6490742087535046406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_212
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 329
+        width: 40
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e4ac3ee4d2e94eacc1e988eac201d
+      internalID: 6506120097073587706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_213
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 326
+        width: 31
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8452f95b3f6d4badd28a37ca0ddac
+      internalID: -8704887540648205362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_214
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 328
+        width: 32
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6875ceac55f6ac645ad8e90004aca7db
+      internalID: 5550360393523132636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_215
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 328
+        width: 33
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20cfc5523ff4e43b092d77f003518f
+      internalID: 5406089137665729662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_216
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 325
+        width: 35
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a0ab32e2d5a3439c5099a6c96035b
+      internalID: 7929547471065348861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_217
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 325
+        width: 36
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720624dcd6bada468f406e26a32afb4
+      internalID: 4873546319841275498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_218
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 323
+        width: 36
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a743d6b1335842a584362ae373d5f
+      internalID: -5467212322217803592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_219
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 323
+        width: 40
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb933d2584baf48a9d267d0fe3edd9
+      internalID: 8542786567457453775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_220
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 317
+        width: 45
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d6c2baadaac941ae6d7752f8d0cf8
+      internalID: 4971148553992180703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_221
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 319
+        width: 38
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b21b818d73de14cb2b9ff8ad8e487b
+      internalID: 8518411361962817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_222
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 322
+        width: 48
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abfe316814ab94081815ec2fc04075
+      internalID: 2042778107396661508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 62
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98bd190c10092b4ca77bcda9f729f4f
+      internalID: -1298864557831144603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_224
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 296
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5ada023408ce4c8cd300942e772ee
+      internalID: -5106042561810950234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_225
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 291
+        width: 12
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da0fead9743b94cbd7d65fe462d848
+      internalID: 2217673546272929779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_226
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 274
+        width: 25
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7950a4ec13cfb048a41b47edc26b0e0
+      internalID: -315956496144982257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_227
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 298
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee98d929701f34491d0be521cc7b6b
+      internalID: 8148047263497378141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_228
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 250
+        width: 36
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd53917498ea7f41adfcd2396875546
+      internalID: -7899977964458199753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_229
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 288
+        width: 7
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99cad1900933e4c8e329f170b40b12
+      internalID: -5752664508620788914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_230
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 281
+        width: 15
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a93f075b64f3c4980ca2fd54cda4f3
+      internalID: -45066808822784187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_231
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 258
+        width: 30
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119fbeb6d6b9f5745b0b6eeb52dcc427
+      internalID: -7421141724300556242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_232
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 255
+        width: 30
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dffc84673f88e4faa025217ff66c5f
+      internalID: 3384575507674797511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_233
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 259
+        width: 34
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39800608df437445b34a9837d573991
+      internalID: 2347027654756060820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_234
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 241
+        width: 40
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd085426c1399304589cefb9e70c5e5e
+      internalID: -556136968700451459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_235
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 266
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd9fb4ab4822c4cbea9f9004da0abe
+      internalID: 3418838443751268599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_236
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 273
+        width: 8
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e66c246722bf8845a6619513b36673f
+      internalID: -3952062857640200047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_237
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 257
+        width: 34
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53094779bf91ad47adbabddbc070278
+      internalID: -4784997897633042937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_238
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 247
+        width: 44
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d309b4ebed1b4d95de434f07cd5cb
+      internalID: -3796820342050578222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_239
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 245
+        width: 41
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd8f051361ddc42baa4acafd6a78ac
+      internalID: -1482388960460084071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_240
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 254
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacd5a4a924506f43865e96c89aece54
+      internalID: 3964115811284598247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_241
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 255
+        width: 12
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9262d59274f144a820689c839f2c95
+      internalID: -7501284127371580562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_242
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 257
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b821d285852f49b15b31df18c7e01
+      internalID: 8191014195838840281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_243
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 257
+        width: 11
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e5f918c571d474c81f7c3dfa14df5c
+      internalID: -8177200990284157954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_244
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 257
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2deaaca297b61e48ae7ddac3ec8f64f
+      internalID: 7986098801300011825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_245
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 39
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f488aacebbd36b4288e7eb614884fdc
+      internalID: 4489725891038378775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_246
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 183
+        width: 44
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88742f748abc88b4caffd8d38f15949e
+      internalID: -753693959103122382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_247
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185
+        width: 46
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3455edb8bdb0243a4065d2bef5a0b3
+      internalID: 7445901773384613186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_248
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189
+        width: 41
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071af4688a97d34a9d04b892414ac2e
+      internalID: -7382442431141088781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_249
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 187
+        width: 39
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293a8a626c3e2664eb9f7d25b23f3230
+      internalID: -8694048916072937479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_250
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 38
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63699c165873fee4bb86e51da46e457f
+      internalID: 8351633760140004126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_251
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 55
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e88fed612fff84b8ab7bfb39fa784c
+      internalID: 2996694102529796777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_252
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 131
+        width: 62
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2984e69338241e14d95a397e7cac5da2
+      internalID: -5904870900591975955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_253
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 133
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca34cb4408db944bcf033e782d21cf
+      internalID: 886696585209890631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_254
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 134
+        width: 62
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a842d1f56ed01d44841331f84777e2a
+      internalID: -7388933244226650452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_255
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 133
+        width: 70
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36602ae2ec61c4e4389f59dbafaa7964
+      internalID: -4333362549857130543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_256
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 139
+        width: 10
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbd6238aa716684f92b06cb6a373492
+      internalID: 3457998778718055331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_257
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 136
+        width: 73
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be1ec0fc15eb14381ad8f62e1c86ba
+      internalID: -1658421065367024123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_258
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 138
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87a3e4b422cc542a35d168dc4f2363
+      internalID: 3162542182141359677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_259
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 142
+        width: 10
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e16718df56f864abf8becdac6bfdeb
+      internalID: -2808412760211819430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_260
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 139
+        width: 7
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02f46a678238e4899379b87d571705
+      internalID: 8553317502294314871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_261
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 135
+        width: 56
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac3dd4c1797c3489dd6c1da221e6b1
+      internalID: -4453602327565470689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_262
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 139
+        width: 6
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee0aafb32aa0d947bd328cb999b23ea
+      internalID: -2564973388129822783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_263
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 134
+        width: 52
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a95d2b653c60f4bbe33dd3d0aaf3a3
+      internalID: -7758362750223182443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_264
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 137
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ec469f43c7dc84abe3e2bf51aa9246
+      internalID: 563877107887842174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_265
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 133
+        width: 24
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0426708f35bc074a9f9413a944902f9
+      internalID: -8308323559897583943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_266
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 136
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a89547cf7bdf4ba9249dd9d6509c1
+      internalID: -8849617408838435568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_267
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 132
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba7743ececf464e84bd4dc534b34cc
+      internalID: -3956462291726746889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_268
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 77
+        width: 53
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e0f46133545b348a20d7216461d8a1
+      internalID: 7662377714908064254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_269
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 78
+        width: 39
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e7b4162169a84680780c4914e3abb
+      internalID: -145305666656137263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_270
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 34
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b503f18b7b4b48bae4e3a8b089870
+      internalID: 162494352836978218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_271
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 32
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3aa7e647c6854418ef3a362bae4749
+      internalID: 789004133646011553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_272
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 13
+        width: 44
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90217abfef40f4a43b0ca04781286e66
+      internalID: 4854584951258357174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto_Atlas_273
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 52
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f244fd9095b614459cd930b2fb4ff1e
+      internalID: 1135138597790302964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

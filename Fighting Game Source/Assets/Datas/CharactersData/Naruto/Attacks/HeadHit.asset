@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af60240b35fb8964f88423a93bea4e6a, type: 3}
+  m_Name: HeadHit
+  m_EditorClassIdentifier: 
+  animation: HeadHit
+  maxTime: 1
+  hitMoment: 0.2
+  range: 0.3
+  damage: 30
+  targetRecoverTime: 0.2
