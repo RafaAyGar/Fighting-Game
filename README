@@ -1,9 +1,9 @@
 Bienvenido al proyecto "Fighting Game".
 
-Guía del proyecto: 
-
 Video-Demonstración:
 - https://www.youtube.com/watch?v=68MSDRkF5wI
+
+Guía del proyecto: 
 
 ¿Donde encontrar el código y archivos fuente?
   - El directorio del proyecto exportado de Unity es "Fighting Game Source", está desarrollado con la versión 2019.2.17f1 por lo que si la tiene instalada puede abrir el proyecto seleccionando ese mismo directorio, también funciona con versiones posteriores a la mencionada.
