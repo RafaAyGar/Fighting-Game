@@ -13,5 +13,4 @@ Video Demonstración:
   - Para poder jugar al juego entre en "Built Game" y haga doble click en "My Naruto Fighting".
 
 Créditos:
-
-Este proyecto ha sido desarrollado en su totalidad por Rafael Ayllón Gavilán, excepto el dibujado de los sprites utilizados, que fueron descargados de "https://www.spriters-resource.com/search/?q=naruto".
+  - Este proyecto ha sido desarrollado en su totalidad por Rafael Ayllón Gavilán, excepto el dibujado de los sprites utilizados, que fueron descargados de "https://www.spriters-resource.com/search/?q=naruto".
