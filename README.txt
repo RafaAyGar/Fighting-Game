@@ -12,5 +12,8 @@ Video-Demonstración:
 ¿Como jugar?
   - Para poder jugar al juego entre en "Built Game" y haga doble click en "My Naruto Fighting".
 
+Objetivos del proyecto:
+- El objetivo de este proyecto es implementar un juego de lucha 2D haciendo uso de buenas prácticas de programación. Utilizar el State Pattern (https://es.wikipedia.org/wiki/State_(patr%C3%B3n_de_dise%C3%B1o)) para el manejo de los estados de los luchadores, y cumplir los principios Solid en el desarrollo del código. El resultado debe ser un software sólido y funcional, manteniendo un código legible y escalable.
+
 Créditos:
   - Este proyecto ha sido desarrollado en su totalidad por Rafael Ayllón Gavilán, excepto el dibujado de los sprites utilizados, que fueron descargados de "https://www.spriters-resource.com/search/?q=naruto".
