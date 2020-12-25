@@ -1,13 +1,13 @@
-Bienvenido al proyecto "Fighting Game With State Pattern".
+Bienvenido al proyecto "Fighting Game".
 
 Guía del proyecto: 
+
+Video-Demonstración:
+- https://www.youtube.com/watch?v=68MSDRkF5wI
 
 ¿Donde encontrar el código y archivos fuente?
   - El directorio del proyecto exportado de Unity es "Fighting Game Source", está desarrollado con la versión 2019.2.17f1 por lo que si la tiene instalada puede abrir el proyecto seleccionando ese mismo directorio, también funciona con versiones posteriores a la mencionada.
   - Concretamente el código fuente se encuentra en "Fighting Game Source\Assets\Scripts"
-
-Video Demonstración:
-  - Puede ver un video demostración del proyecto en este mismo directorio llamado "Demo Fighting Game", para verlo, haga click en este y en la siguiente ventana clique           en "view raw" para descargar el video, ya que es un archivo demasiado grande como para que GitHub por si sólo sea capaz de mostrarlo.
 
 ¿Como jugar?
   - Para poder jugar al juego entre en "Built Game" y haga doble click en "My Naruto Fighting".
